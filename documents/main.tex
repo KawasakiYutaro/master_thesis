@@ -1,0 +1,82 @@
+
+
+\documentclass[a4paper,12pt]{jarticle}
+
+\input{include/macro.tex}
+\input{include/preamble.tex}
+
+% 表紙
+\title{修士論文\\
+柔軟指を有する産業用ロボットによる組付け作業\\
+% {\large No title}
+}
+\author{\vspace{90mm}\\
+指導教員：\ 西田 \hspace{0mm} 健 准教授\\
+九州工業大学大学院\ \hspace{0mm} 工学府\\
+工学専攻\ \hspace{0mm} 知能制御工学コース \\
+\vspace{0mm}\\
+学籍番号：\ 193D2007\\
+提出者氏名：\ 川崎 \hspace{0mm} 雄太朗\\\vspace{5mm}\\ }
+\date{令和3年\ 2月\ 13日}
+
+\begin{document}
+
+\titlepage
+\maketitle
+\thispagestyle{empty}
+\newpage
+
+% 目次
+\thispagestyle{empty}
+\input{contents/abstruct.tex}
+\newpage
+\tableofcontents
+
+
+%以下それぞれの章
+\newpage
+%序論
+\input{contents/background.tex}
+\newpage
+%構成
+%\input{contents/structure.tex}
+\newpage
+%原理
+\input{contents/principle.tex}
+\newpage
+%実験
+%\input{contents/experiments.tex}
+\newpage
+%考察
+%\input{contents/discussion.tex}
+\newpage
+%結論
+%\input{contents/conclutions.tex}
+%\input{contents/acknowledgement.tex}
+
+
+
+\begin{thebibliography}{99}
+\addcontentsline{toc}{section}{参考文献}
+
+\bibitem{end} Tetsuyou Watanabe, Kimitoshi Yamazaki, Yasuyoshi Yokoko-hji, “Survey of robotic manipulation studies intending practi-cal applications in real environments -object recognition, softrobot hand, and challenge program and benchmarking-” , Advanced Robotics , Vol. 31, Iss. 19–20, pp. 1114-1132, 2017.
+\bibitem{soft} 中村太郎，”生物・生体の機能を規範としたソフトロボティクス”,システム/制御/情報, 61巻, 7号, pp.265-270, 2017.
+
+\bibitem{jam}J. R. Amend Jr, E. Brown, N. Rodenberg, H. M. Jaeger, H. Lipson: “A Positive Pressure
+Universal Gripper Based on the Jamming of Granular Material,” IEEE trans. on Robotics,
+Vol.28, pp.341–350, 2012.
+
+\bibitem{MR}T . Nishida , Y . Okatani , K . Tadakuma ,
+“ Development of universal robot gripper using
+MR α fluid, ” Int . Journal of Humanoid Robotics , vol.13 ,No.4 ,p13,2016.
+
+\bibitem{sh_hand} 天呑将成，鈴木陽介,辻徳生，渡辺哲陽,”はや戻り機構を用いた高速グリッパの開発", SICE, 2018.
+
+\bibitem{hayamodori} 熊谷英樹，”必携「からくり設計」メカニズム定石集”,日刊工業新聞社，p140,2017.
+
+\bibitem{gel} 柴山充弘，”ゲルの物理と化学の新展開”,日本物理学会誌 Vol 72,No.4,2017, pp.226-227, 2017.  
+
+
+\end{thebibliography}
+
+\end{document}

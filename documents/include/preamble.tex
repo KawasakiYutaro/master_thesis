@@ -1,0 +1,93 @@
+% -- Package ---------------------------------------------------
+\usepackage{fancyhdr}
+\usepackage{here}
+\usepackage{listings}
+\usepackage[dvipdfmx]{graphicx}
+\usepackage{amsmath,amssymb,epsfig}
+\usepackage{eucal}
+\usepackage{bm}
+\usepackage{ascmac}
+\usepackage{pifont}
+\usepackage{multirow}
+\usepackage{enumerate}
+\usepackage{cases}
+\usepackage{type1cm}
+\usepackage{cancel}
+\usepackage{url}
+\usepackage{cite}
+\usepackage{color}
+%\usepackage[dvipdfmx]{color}
+\usepackage{caption}
+\usepackage[caption=false]{subfig}
+\captionsetup[figure]{labelsep=space}
+\usepackage[ruled,vlined]{algorithm2e}
+\usepackage{setspace}
+\usepackage{comment}
+\input{../sty/jdummy.def}
+
+
+
+% -- Margin Config ---------------------------------------------
+\addtolength{\topmargin}{-\headheight}
+\addtolength{\topmargin}{-\headsep}
+\addtolength{\textheight}{-60truemm}
+
+% -- Layout Config ---------------------------------------------
+\setlength{\hoffset}{0cm}
+\setlength{\oddsidemargin}{-3mm}
+\setlength{\evensidemargin}{-3cm}
+\setlength{\marginparsep}{0cm}
+\setlength{\marginparwidth}{0cm}
+\setlength{\textheight}{24.7cm}
+\setlength{\textwidth}{17cm}
+\setlength{\topmargin}{-45pt}
+
+
+
+% -- Renewcommand ----------------------------------------------
+\renewcommand{\theequation}{\arabic{section}.\arabic{equation}}
+\renewcommand{\thefigure}{\arabic{figure}}
+\renewcommand{\thetable}{\thesection.\arabic{table}}
+\renewcommand{\lstlistingname}{ソースコード}
+\renewcommand{\headrulewidth}{0mm} % fancy
+\renewcommand{\labelenumi}{(\arabic{enumi})}
+\renewcommand{\baselinestretch}{1.3}
+\renewcommand{\floatpagefraction}{1}
+\renewcommand{\topfraction}{1}
+\renewcommand{\bottomfraction}{1}
+\renewcommand{\textfraction}{0}
+\renewcommand\thefootnote{\arabic{footnote})}
+\renewcommand{\figurename}{Fig.}
+\renewcommand{\tablename}{Tab.}
+
+
+
+% -- Config for fancy package ----------------------------------
+\pagestyle{fancy}
+\rhead{\thepage}
+\lhead{}
+\cfoot{}
+
+
+% -- Config for counter ----------------------------------------
+\setcounter{section}{0}
+\setcounter{subsection}{0}
+\setcounter{subsubsection}{0}
+\setcounter{equation}{0}
+
+% 式番号を式(章番号.番号)に
+\makeatletter
+\renewcommand{\theequation}{\arabic{section}.\arabic{equation}}
+\@addtoreset{equation}{section}
+\makeatother
+
+
+% -- Config for package listings -------------------------------
+\lstset{
+  basicstyle={\ttfamily \small},
+  breaklines=true,
+  frame=trBL,
+  numbers=left,
+  numberstyle={\ttfamily \small},
+}
+

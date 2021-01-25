@@ -1,0 +1,3818 @@
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015/Debian) (preloaded format=platex 2019.1.29)  22 JAN 2021 15:54
+entering extended mode
+ restricted \write18 enabled.
+ Source specials enabled.
+ %&-line parsing enabled.
+**experiments.tex
+(./experiments.tex
+pLaTeX2e <2006/11/10> (based on LaTeX2e <2016/02/01> patch level 0)
+Babel <3.9n> and hyphenation patterns for 80 languages loaded.
+! Undefined control sequence.
+l.1 \section
+            {実験}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{実
+               験}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.3 \subsection
+               {把持実験}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4 ...にまとめる．検証に用いる把持対象物を\refig
+                                                 {denso_parts}に示す．把持対象
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.4 ...める．検証に用いる把持対象物を\refig{denso_
+                                                  parts}に示す．把持対象物は...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+! Extra }, or forgotten $.
+l.4 ...検証に用いる把持対象物を\refig{denso_parts}
+                                                  に示す．把持対象物は自動車...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Not two-byte family.
+l.4 ...証に用いる把持対象物を\refig{denso_parts}に
+                                                  示す．把持対象物は自動車部...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...に用いる把持対象物を\refig{denso_parts}に示
+                                                  す．把持対象物は自動車部品...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...用いる把持対象物を\refig{denso_parts}に示す
+                                                  ．把持対象物は自動車部品工...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...いる把持対象物を\refig{denso_parts}に示す．
+                                                  把持対象物は自動車部品工場...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...る把持対象物を\refig{denso_parts}に示す．把
+                                                  持対象物は自動車部品工場で...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...把持対象物を\refig{denso_parts}に示す．把持
+                                                  対象物は自動車部品工場で用...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...持対象物を\refig{denso_parts}に示す．把持対
+                                                  象物は自動車部品工場で用い...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...対象物を\refig{denso_parts}に示す．把持対象
+                                                  物は自動車部品工場で用いら...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...象物を\refig{denso_parts}に示す．把持対象物
+                                                  は自動車部品工場で用いられ...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...物を\refig{denso_parts}に示す．把持対象物は
+                                                  自動車部品工場で用いられる...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...を\refig{denso_parts}に示す．把持対象物は自
+                                                  動車部品工場で用いられる部...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...\refig{denso_parts}に示す．把持対象物は自動
+                                                  車部品工場で用いられる部品...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...efig{denso_parts}に示す．把持対象物は自動車
+                                                  部品工場で用いられる部品の...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...ig{denso_parts}に示す．把持対象物は自動車部
+                                                  品工場で用いられる部品のモ...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...{denso_parts}に示す．把持対象物は自動車部品
+                                                  工場で用いられる部品のモデ...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...enso_parts}に示す．把持対象物は自動車部品工
+                                                  場で用いられる部品のモデル...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...so_parts}に示す．把持対象物は自動車部品工場
+                                                  で用いられる部品のモデルの...
+IGNORE.
+
+! Not two-byte family.
+l.4 ..._parts}に示す．把持対象物は自動車部品工場で
+                                                  用いられる部品のモデルの5...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...arts}に示す．把持対象物は自動車部品工場で用
+                                                  いられる部品のモデルの5種...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...ts}に示す．把持対象物は自動車部品工場で用い
+                                                  られる部品のモデルの5種類...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...}に示す．把持対象物は自動車部品工場で用いら
+                                                  れる部品のモデルの5種類と...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...示す．把持対象物は自動車部品工場で用いられ
+                                                 る部品のモデルの5種類とし,それ
+IGNORE.
+
+! Not two-byte family.
+l.4 ...す．把持対象物は自動車部品工場で用いられる
+                                                 部品のモデルの5種類とし,それぞ
+IGNORE.
+
+! Not two-byte family.
+l.4 ...．把持対象物は自動車部品工場で用いられる部
+                                                 品のモデルの5種類とし,それぞれ
+IGNORE.
+
+! Not two-byte family.
+l.4 ...把持対象物は自動車部品工場で用いられる部品
+                                                 のモデルの5種類とし,それぞれA,
+IGNORE.
+
+! Not two-byte family.
+l.4 ...持対象物は自動車部品工場で用いられる部品の
+                                                 モデルの5種類とし,それぞれA,B,
+IGNORE.
+
+! Not two-byte family.
+l.4 ...対象物は自動車部品工場で用いられる部品のモ
+                                                 デルの5種類とし,それぞれA,B,C,
+IGNORE.
+
+! Not two-byte family.
+l.4 ...象物は自動車部品工場で用いられる部品のモデ
+                                                 ルの5種類とし,それぞれA,B,C,D,
+IGNORE.
+
+! Not two-byte family.
+l.4 ...物は自動車部品工場で用いられる部品のモデル
+                                                 の5種類とし,それぞれA,B,C,D,E
+IGNORE.
+
+! Not two-byte family.
+l.4 ...は自動車部品工場で用いられる部品のモデルの
+                                                 5種類とし,それぞれA,B,C,D,Eの
+IGNORE.
+
+! Not two-byte family.
+l.4 ...自動車部品工場で用いられる部品のモデルの5種
+                                                  類とし,それぞれA,B,C,D,Eの...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...動車部品工場で用いられる部品のモデルの5種類
+                                                  とし,それぞれA,B,C,D,Eの記...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...車部品工場で用いられる部品のモデルの5種類と
+                                                  し,それぞれA,B,C,D,Eの記号...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...部品工場で用いられる部品のモデルの5種類とし
+                                                  ,それぞれA,B,C,D,Eの記号を...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...工場で用いられる部品のモデルの5種類とし,そ
+                                                 れぞれA,B,C,D,Eの記号を部品ご
+IGNORE.
+
+! Not two-byte family.
+l.4 ...場で用いられる部品のモデルの5種類とし,それ
+                                                 ぞれA,B,C,D,Eの記号を部品ごと
+IGNORE.
+
+! Not two-byte family.
+l.4 ...で用いられる部品のモデルの5種類とし,それぞ
+                                                 れA,B,C,D,Eの記号を部品ごとに
+IGNORE.
+
+! Not two-byte family.
+l.4 ...用いられる部品のモデルの5種類とし,それぞれ
+                                                 A,B,C,D,Eの記号を部品ごとに割
+IGNORE.
+
+! Not two-byte family.
+l.4 ...部品のモデルの5種類とし,それぞれA,B,C,D,Eの
+                                                  記号を部品ごとに割り振った.
+IGNORE.
+
+! Not two-byte family.
+l.4 ...品のモデルの5種類とし,それぞれA,B,C,D,Eの記
+                                                  号を部品ごとに割り振った.
+IGNORE.
+
+! Not two-byte family.
+l.4 ...のモデルの5種類とし,それぞれA,B,C,D,Eの記号
+                                                  を部品ごとに割り振った.
+IGNORE.
+
+! Not two-byte family.
+l.4 ...モデルの5種類とし,それぞれA,B,C,D,Eの記号を
+                                                  部品ごとに割り振った.
+IGNORE.
+
+! Not two-byte family.
+l.4 ...デルの5種類とし,それぞれA,B,C,D,Eの記号を部
+                                                  品ごとに割り振った.
+IGNORE.
+
+! Not two-byte family.
+l.4 ...ルの5種類とし,それぞれA,B,C,D,Eの記号を部品
+                                                  ごとに割り振った.
+IGNORE.
+
+! Not two-byte family.
+l.4 ...の5種類とし,それぞれA,B,C,D,Eの記号を部品ご
+                                                  とに割り振った.
+IGNORE.
+
+! Not two-byte family.
+l.4 ...5種類とし,それぞれA,B,C,D,Eの記号を部品ごと
+                                                  に割り振った.
+IGNORE.
+
+! Not two-byte family.
+l.4 ...類とし,それぞれA,B,C,D,Eの記号を部品ごとに
+                                                 割り振った.
+IGNORE.
+
+! Not two-byte family.
+l.4 ...とし,それぞれA,B,C,D,Eの記号を部品ごとに割
+                                                 り振った.
+IGNORE.
+
+! Not two-byte family.
+l.4 ...し,それぞれA,B,C,D,Eの記号を部品ごとに割り
+                                                 振った.
+IGNORE.
+
+! Not two-byte family.
+l.4 ...,それぞれA,B,C,D,Eの記号を部品ごとに割り振
+                                                 った.
+IGNORE.
+
+! Not two-byte family.
+l.4 ...それぞれA,B,C,D,Eの記号を部品ごとに割り振っ
+                                                  た.
+IGNORE.
+
+! Not two-byte family.
+l.4 ...れぞれA,B,C,D,Eの記号を部品ごとに割り振った
+                                                  .
+IGNORE.
+
+! Not two-byte family.
+l.5 ま
+      た,把持対象物Eは\refig{E}上部の突起部と下部の外周部でそれぞれ把持実験...
+IGNORE.
+
+! Not two-byte family.
+l.5 また
+        ,把持対象物Eは\refig{E}上部の突起部と下部の外周部でそれぞれ把持実験...
+IGNORE.
+
+! Not two-byte family.
+l.5 また,把
+           持対象物Eは\refig{E}上部の突起部と下部の外周部でそれぞれ把持実験...
+IGNORE.
+
+! Not two-byte family.
+l.5 また,把持
+             対象物Eは\refig{E}上部の突起部と下部の外周部でそれぞれ把持実験...
+IGNORE.
+
+! Not two-byte family.
+l.5 また,把持対
+               象物Eは\refig{E}上部の突起部と下部の外周部でそれぞれ把持実験...
+IGNORE.
+
+! Not two-byte family.
+l.5 また,把持対象
+                 物Eは\refig{E}上部の突起部と下部の外周部でそれぞれ把持実験...
+IGNORE.
+
+! Not two-byte family.
+l.5 また,把持対象物
+                   Eは\refig{E}上部の突起部と下部の外周部でそれぞれ把持実験...
+IGNORE.
+
+! Not two-byte family.
+l.5 また,把持対象物Eは
+                      \refig{E}上部の突起部と下部の外周部でそれぞれ把持実験...
+IGNORE.
+
+! Undefined control sequence.
+l.5 また,把持対象物Eは\refig
+                            {E}上部の突起部と下部の外周部でそれぞれ把持実験...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Not two-byte family.
+l.5 また,把持対象物Eは\refig{E}上
+                                 部の突起部と下部の外周部でそれぞれ把持実験...
+IGNORE.
+
+! Not two-byte family.
+l.5 また,把持対象物Eは\refig{E}上部
+                                   の突起部と下部の外周部でそれぞれ把持実験...
+IGNORE.
+
+! Not two-byte family.
+l.5 また,把持対象物Eは\refig{E}上部の
+                                     突起部と下部の外周部でそれぞれ把持実験...
+IGNORE.
+
+! Not two-byte family.
+l.5 また,把持対象物Eは\refig{E}上部の突
+                                       起部と下部の外周部でそれぞれ把持実験...
+IGNORE.
+
+! Not two-byte family.
+l.5 また,把持対象物Eは\refig{E}上部の突起
+                                         部と下部の外周部でそれぞれ把持実験...
+IGNORE.
+
+! Not two-byte family.
+l.5 また,把持対象物Eは\refig{E}上部の突起部
+                                           と下部の外周部でそれぞれ把持実験...
+IGNORE.
+
+! Not two-byte family.
+l.5 また,把持対象物Eは\refig{E}上部の突起部と
+                                             下部の外周部でそれぞれ把持実験...
+IGNORE.
+
+! Not two-byte family.
+l.5 また,把持対象物Eは\refig{E}上部の突起部と下
+                                               部の外周部でそれぞれ把持実験...
+IGNORE.
+
+! Not two-byte family.
+l.5 また,把持対象物Eは\refig{E}上部の突起部と下部
+                                                 の外周部でそれぞれ把持実験...
+IGNORE.
+
+! Not two-byte family.
+l.5 ...,把持対象物Eは\refig{E}上部の突起部と下部の
+                                                  外周部でそれぞれ把持実験を...
+IGNORE.
+
+! Not two-byte family.
+l.5 ...持対象物Eは\refig{E}上部の突起部と下部の外
+                                                 周部でそれぞれ把持実験を行った
+IGNORE.
+
+! Not two-byte family.
+l.5 ...対象物Eは\refig{E}上部の突起部と下部の外周
+                                                 部でそれぞれ把持実験を行った.
+IGNORE.
+
+! Not two-byte family.
+l.5 ...象物Eは\refig{E}上部の突起部と下部の外周部
+                                                 でそれぞれ把持実験を行った.
+IGNORE.
+
+! Not two-byte family.
+l.5 ...物Eは\refig{E}上部の突起部と下部の外周部で
+                                                 それぞれ把持実験を行った.
+IGNORE.
+
+! Not two-byte family.
+l.5 ...Eは\refig{E}上部の突起部と下部の外周部でそ
+                                                 れぞれ把持実験を行った.
+IGNORE.
+
+! Not two-byte family.
+l.5 ...は\refig{E}上部の突起部と下部の外周部でそれ
+                                                  ぞれ把持実験を行った.
+IGNORE.
+
+! Not two-byte family.
+l.5 ...\refig{E}上部の突起部と下部の外周部でそれぞ
+                                                  れ把持実験を行った.
+IGNORE.
+
+! Not two-byte family.
+l.5 ...efig{E}上部の突起部と下部の外周部でそれぞれ
+                                                  把持実験を行った.
+IGNORE.
+
+! Not two-byte family.
+l.5 ...ig{E}上部の突起部と下部の外周部でそれぞれ把
+                                                  持実験を行った.
+IGNORE.
+
+! Not two-byte family.
+l.5 ...{E}上部の突起部と下部の外周部でそれぞれ把持
+                                                  実験を行った.
+IGNORE.
+
+! Not two-byte family.
+l.5 ...}上部の突起部と下部の外周部でそれぞれ把持実
+                                                  験を行った.
+IGNORE.
+
+! Not two-byte family.
+l.5 ...部の突起部と下部の外周部でそれぞれ把持実験
+                                                 を行った.
+IGNORE.
+
+! Not two-byte family.
+l.5 ...の突起部と下部の外周部でそれぞれ把持実験を
+                                                 行った.
+IGNORE.
+
+! Not two-byte family.
+l.5 ...突起部と下部の外周部でそれぞれ把持実験を行
+                                                 った.
+IGNORE.
+
+! Not two-byte family.
+l.5 ...起部と下部の外周部でそれぞれ把持実験を行っ
+                                                 た.
+IGNORE.
+
+! Not two-byte family.
+l.5 ...部と下部の外周部でそれぞれ把持実験を行った
+                                                 .
+IGNORE.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.6 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (29.62216pt too wide) in paragraph at lines 1--6
+[][]\JY1/mc/m/n/10 実
+ []
+
+
+Overfull \hbox (19.24432pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 験[]把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 実
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 験
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 本
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 グ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 リ
+ []
+
+
+Overfull \hbox (7.47433pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 ッ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 パ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 指
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 入
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 れ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 替
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 え
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 て
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 対
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 象
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 物
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 可
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 不
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 可
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 検
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 証
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 す
+ []
+
+
+Overfull \hbox (12.65881pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 る ．
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 指
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 種
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 類
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 は
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 ゲ
+ []
+
+
+Overfull \hbox (12.65881pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 ル ，
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 バ
+ []
+
+
+Overfull \hbox (12.65881pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 ネ ，
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 ゴ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 ム
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 で
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 被
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 覆
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 し
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 た
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 ス
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 ポ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 ン
+ []
+
+
+Overfull \hbox (12.65881pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 ジ ，
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 柔
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 軟
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 物
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 な
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 し
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 も
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 と
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 し
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 以
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 下
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 に
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 ま
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 と
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 め
+ []
+
+
+Overfull \hbox (12.65881pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 る ．
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 検
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 証
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 に
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 用
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 い
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 る
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 対
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 象
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 物
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--6
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (677.54527pt too wide) in paragraph at lines 1--6
+\OT1/cmr/m/n/10 denso$[]\OML/cmm/m/it/10 arts\OT1/cmr/m/n/10 ^^@^^@^^@^^@^^@^^@
+^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@5^^@^^@
+^^@^^@\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 ^^@^^@^^@^^@\OML/cmm/m/it/10 A; B; C; 
+D; E\OT1/cmr/m/n/10 ^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@\OML/cmm/m/it/10 
+:\OT1/cmr/m/n/10 ^^@^^@\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 ^^@^^@^^@^^@^^@\OML/c
+mm/m/it/10 E\OT1/cmr/m/n/10 ^^@\OML/cmm/m/it/10 E\OT1/cmr/m/n/10 ^^@^^@^^@^^@^^
+@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@\OML/cmm/m/it/1
+0 :$ 
+ []
+
+! Undefined control sequence.
+l.9 \subsubsection
+                  {実験手順}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \subsubsection{実
+                     験手順}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (29.62216pt too wide) in paragraph at lines 9--10
+[][]\JY1/mc/m/n/10 実
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 9--10
+\JY1/mc/m/n/10 験
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 9--10
+\JY1/mc/m/n/10 手
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 9--10
+\JY1/mc/m/n/10 順 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \begin{enumerate}
+                      
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 11--11
+[][] 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 12--13
+[]\JY1/mc/m/n/10 上
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 12--13
+\JY1/mc/m/n/10 記
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 12--13
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 12--13
+\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 12--13
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 12--13
+\JY1/mc/m/n/10 対
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 12--13
+\JY1/mc/m/n/10 象
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 12--13
+\JY1/mc/m/n/10 物
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 12--13
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 12--13
+\JY1/mc/m/n/10 作
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 12--13
+\JY1/mc/m/n/10 業
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 12--13
+\JY1/mc/m/n/10 台
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 12--13
+\JY1/mc/m/n/10 に
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 12--13
+\JY1/mc/m/n/10 配
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 12--13
+\JY1/mc/m/n/10 置
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 12--13
+\JY1/mc/m/n/10 し
+ []
+
+
+Overfull \hbox (12.65881pt too wide) in paragraph at lines 12--13
+\JY1/mc/m/n/10 た ． 
+ []
+
+
+Underfull \vbox (badness 3029) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13   \item グ
+               リッパの指を開き作業台の鉛直上方向から把持に適切な位置まで接...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1
+! Undefined control sequence.
+<write> \newlabel{sec:実験}{{}{\thepage 
+                                        }}
+l.13   \item グ
+               リッパの指を開き作業台の鉛直上方向から把持に適切な位置まで接...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{sec:実験}{{}{}}
+]
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+[]\JY1/mc/m/n/10 グ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 リ
+ []
+
+
+Overfull \hbox (7.47433pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 ッ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 パ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 指
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 開
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 き
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 作
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 業
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 台
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 鉛
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 直
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 上
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 方
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 向
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 か
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 ら
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 に
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 適
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 切
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 な
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 位
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 置
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 ま
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 で
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 接
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 近
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 さ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 せ
+ []
+
+
+Overfull \hbox (12.65881pt too wide) in paragraph at lines 13--14
+\JY1/mc/m/n/10 た ． 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 14--15
+[]\JY1/mc/m/n/10 グ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 14--15
+\JY1/mc/m/n/10 リ
+ []
+
+
+Overfull \hbox (7.47433pt too wide) in paragraph at lines 14--15
+\JY1/mc/m/n/10 ッ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 14--15
+\JY1/mc/m/n/10 パ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 14--15
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 14--15
+\JY1/mc/m/n/10 指
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 14--15
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 14--15
+\JY1/mc/m/n/10 閉
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 14--15
+\JY1/mc/m/n/10 じ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 14--15
+\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 14--15
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 14--15
+\JY1/mc/m/n/10 対
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 14--15
+\JY1/mc/m/n/10 象
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 14--15
+\JY1/mc/m/n/10 物
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 14--15
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 14--15
+\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 14--15
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 14--15
+\JY1/mc/m/n/10 し
+ []
+
+
+Overfull \hbox (12.65881pt too wide) in paragraph at lines 14--15
+\JY1/mc/m/n/10 た ． 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+[]\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 対
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 象
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 物
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 し
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 た
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 ま
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 ま
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 鉛
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 直
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 上
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 方
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 向
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 に
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 ち
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 上
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 げ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 る
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 こ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 と
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 が
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 で
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 き
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 れ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 ば
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 可
+ []
+
+
+Overfull \hbox (12.65881pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 能 ，
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 ち
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 上
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 げ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 る
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 こ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 と
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 が
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 で
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 き
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 な
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 け
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 れ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 ば
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 不
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 可
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 能
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 と
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 判
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 別
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 し
+ []
+
+
+Overfull \hbox (12.65881pt too wide) in paragraph at lines 15--16
+\JY1/mc/m/n/10 た ． 
+ []
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 \begin{figure}
+                   [h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (31.11115pt too wide) in paragraph at lines 18--19
+[][]\OT1/cmr/m/n/10 [h] 
+ []
+
+! Undefined control sequence.
+l.20   \includegraphics
+                       [scale=0.6]{../figure/denso.eps}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21  \caption
+              {自動車部品}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (127.97249pt too wide) in paragraph at lines 20--23
+ []\OT1/cmr/m/n/10 [scale=0.6]../figure/denso.eps 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 20--23
+ \JY1/mc/m/n/10 自 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 20--23
+ \JY1/mc/m/n/10 動 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 20--23
+ \JY1/mc/m/n/10 車 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 20--23
+ \JY1/mc/m/n/10 部 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 20--23
+ \JY1/mc/m/n/10 品[] 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 \begin{figure}
+                   [h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (31.11115pt too wide) in paragraph at lines 26--27
+[][]\OT1/cmr/m/n/10 [h] 
+ []
+
+! Undefined control sequence.
+l.28   \includegraphics
+                       [scale=0.6]{../figure/E.eps}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29  \caption
+              {把持対象物E}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (110.27802pt too wide) in paragraph at lines 28--31
+ []\OT1/cmr/m/n/10 [scale=0.6]../figure/E.eps 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--31
+ \JY1/mc/m/n/10 把 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--31
+ \JY1/mc/m/n/10 持 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--31
+ \JY1/mc/m/n/10 対 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--31
+ \JY1/mc/m/n/10 象 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--31
+ \JY1/mc/m/n/10 物 
+ []
+
+
+Overfull \hbox (6.80557pt too wide) in paragraph at lines 28--31
+ \OT1/cmr/m/n/10 E 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 \newpage
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[2
+! Undefined control sequence.
+<write> \newlabel{fig::denso_parts}{{}{\thepage 
+                                                }}
+l.34 \newpage
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig::denso_parts}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{fig::E}{{}{\thepage 
+                                      }}
+l.34 \newpage
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig::E}{{}{}}
+]
+! Undefined control sequence.
+l.37 \subsubsection
+                   {実験結果}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.38 ...した指は以下の通りである.実験結果を\reftab
+                                                  {result}にまとめる．把持成...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.38 ...が両方成功した時把持成功とみなした.\reftab
+                                                  {result}の横軸は\refig{den...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.38 ...功とみなした.\reftab{result}の横軸は\refig
+                                                  {denso_parts}の割り振った...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.38 ...した.\reftab{result}の横軸は\refig{denso_
+                                                 parts}の割り振った記号と対応し
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.38 ...\reftab{result}の横軸は\refig{denso_parts}
+                                                  の割り振った記号と対応し縦...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Not two-byte family.
+l.38 ...eftab{result}の横軸は\refig{denso_parts}の
+                                                  割り振った記号と対応し縦軸...
+IGNORE.
+
+! Not two-byte family.
+l.38 ...tab{result}の横軸は\refig{denso_parts}の割
+                                                  り振った記号と対応し縦軸は...
+IGNORE.
+
+! Not two-byte family.
+l.38 ...b{result}の横軸は\refig{denso_parts}の割り
+                                                  振った記号と対応し縦軸は以...
+IGNORE.
+
+! Not two-byte family.
+l.38 ...result}の横軸は\refig{denso_parts}の割り振
+                                                  った記号と対応し縦軸は以下...
+IGNORE.
+
+! Not two-byte family.
+l.38 ...sult}の横軸は\refig{denso_parts}の割り振っ
+                                                  た記号と対応し縦軸は以下の...
+IGNORE.
+
+! Not two-byte family.
+l.38 ...lt}の横軸は\refig{denso_parts}の割り振った
+                                                  記号と対応し縦軸は以下の指...
+IGNORE.
+
+! Not two-byte family.
+l.38 ...}の横軸は\refig{denso_parts}の割り振った記
+                                                  号と対応し縦軸は以下の指の...
+IGNORE.
+
+! Not two-byte family.
+l.38 ...横軸は\refig{denso_parts}の割り振った記号
+                                                 と対応し縦軸は以下の指の番号と
+IGNORE.
+
+! Not two-byte family.
+l.38 ...軸は\refig{denso_parts}の割り振った記号と
+                                                 対応し縦軸は以下の指の番号と対
+IGNORE.
+
+! Not two-byte family.
+l.38 ...は\refig{denso_parts}の割り振った記号と対
+                                                 応し縦軸は以下の指の番号と対応
+IGNORE.
+
+! Not two-byte family.
+l.38 ...\refig{denso_parts}の割り振った記号と対応
+                                                 し縦軸は以下の指の番号と対応し
+IGNORE.
+
+! Not two-byte family.
+l.38 ...refig{denso_parts}の割り振った記号と対応し
+                                                  縦軸は以下の指の番号と対応...
+IGNORE.
+
+! Not two-byte family.
+l.38 ...fig{denso_parts}の割り振った記号と対応し縦
+                                                  軸は以下の指の番号と対応し...
+IGNORE.
+
+! Not two-byte family.
+l.38 ...g{denso_parts}の割り振った記号と対応し縦軸
+                                                  は以下の指の番号と対応して...
+IGNORE.
+
+! Not two-byte family.
+l.38 ...denso_parts}の割り振った記号と対応し縦軸は
+                                                  以下の指の番号と対応している.
+IGNORE.
+
+! Not two-byte family.
+l.38 ...nso_parts}の割り振った記号と対応し縦軸は以
+                                                  下の指の番号と対応している.
+IGNORE.
+
+! Not two-byte family.
+l.38 ...o_parts}の割り振った記号と対応し縦軸は以下
+                                                  の指の番号と対応している.
+IGNORE.
+
+! Not two-byte family.
+l.38 ...parts}の割り振った記号と対応し縦軸は以下の
+                                                  指の番号と対応している.
+IGNORE.
+
+! Not two-byte family.
+l.38 ...rts}の割り振った記号と対応し縦軸は以下の指
+                                                  の番号と対応している.
+IGNORE.
+
+! Not two-byte family.
+l.38 ...s}の割り振った記号と対応し縦軸は以下の指の
+                                                  番号と対応している.
+IGNORE.
+
+! Not two-byte family.
+l.38 ...の割り振った記号と対応し縦軸は以下の指の番
+                                                  号と対応している.
+IGNORE.
+
+! Not two-byte family.
+l.38 ...割り振った記号と対応し縦軸は以下の指の番号
+                                                  と対応している.
+IGNORE.
+
+! Not two-byte family.
+l.38 ...り振った記号と対応し縦軸は以下の指の番号と
+                                                  対応している.
+IGNORE.
+
+! Not two-byte family.
+l.38 ...振った記号と対応し縦軸は以下の指の番号と対
+                                                  応している.
+IGNORE.
+
+! Not two-byte family.
+l.38 ...った記号と対応し縦軸は以下の指の番号と対応
+                                                  している.
+IGNORE.
+
+! Not two-byte family.
+l.38 ...た記号と対応し縦軸は以下の指の番号と対応し
+                                                  ている.
+IGNORE.
+
+! Not two-byte family.
+l.38 ...記号と対応し縦軸は以下の指の番号と対応して
+                                                  いる.
+IGNORE.
+
+! Not two-byte family.
+l.38 ...号と対応し縦軸は以下の指の番号と対応してい
+                                                  る.
+IGNORE.
+
+! Not two-byte family.
+l.38 ...と対応し縦軸は以下の指の番号と対応している
+                                                  .
+IGNORE.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.39 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (29.62216pt too wide) in paragraph at lines 37--39
+[][]\JY1/mc/m/n/10 実
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 験
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 結
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 果
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 使
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 用
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 し
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 た
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 指
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 は
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 以
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 下
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 通
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 り
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 で
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 あ
+ []
+
+
+Overfull \hbox (12.39995pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 る\OT1/cmr/m/n/10 .
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 実
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 験
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 結
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 果
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (11.69444pt too wide) in paragraph at lines 37--39
+\OT1/cmr/m/n/10 re-
+ []
+
+
+Overfull \hbox (16.1667pt too wide) in paragraph at lines 37--39
+\OT1/cmr/m/n/10 sult
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 に
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 ま
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 と
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 め
+ []
+
+
+Overfull \hbox (12.65881pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 る ．
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 成
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 功
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 は
+ []
+
+
+Overfull \hbox (12.39995pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 ◯\OT1/cmr/m/n/10 ,
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 失
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 敗
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 は
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 ×
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 表
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 し
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 て
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 い
+ []
+
+
+Overfull \hbox (12.39995pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 る\OT1/cmr/m/n/10 .
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 対
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 象
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 物
+ []
+
+
+Overfull \hbox (6.80557pt too wide) in paragraph at lines 37--39
+\OT1/cmr/m/n/10 E
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 は
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 上
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 部
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 突
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 起
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 部
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 と
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 下
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 部
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 外
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 周
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 部
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 で
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 が
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 両
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 方
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 成
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 功
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 し
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 た
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 時
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 成
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 功
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 と
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 み
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 な
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 し
+ []
+
+
+Overfull \hbox (24.09439pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 た\OT1/cmr/m/n/10 .re-
+ []
+
+
+Overfull \hbox (16.1667pt too wide) in paragraph at lines 37--39
+\OT1/cmr/m/n/10 sult
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 横
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 軸
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 37--39
+\JY1/mc/m/n/10 は
+ []
+
+
+Overfull \hbox (231.52449pt too wide) in paragraph at lines 37--39
+\OT1/cmr/m/n/10 denso$[]\OML/cmm/m/it/10 arts\OT1/cmr/m/n/10 ^^@^^@^^@^^@^^@^^@
+^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@\OML/cmm/m
+/it/10 :$ 
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 40--40
+[][] 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 41--42
+[]\JY1/mc/m/n/10 柔
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 41--42
+\JY1/mc/m/n/10 軟
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 41--42
+\JY1/mc/m/n/10 物
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 41--42
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 41--42
+\JY1/mc/m/n/10 な
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 41--42
+\JY1/mc/m/n/10 い
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 41--42
+\JY1/mc/m/n/10 指 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 42--43
+[]\JY1/mc/m/n/10 厚
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 42--43
+\JY1/mc/m/n/10 さ
+ []
+
+
+Overfull \hbox (21.66673pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 3mm
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 42--43
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 42--43
+\JY1/mc/m/n/10 ゲ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 42--43
+\JY1/mc/m/n/10 ル
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 42--43
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 42--43
+\JY1/mc/m/n/10 取
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 42--43
+\JY1/mc/m/n/10 り
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 42--43
+\JY1/mc/m/n/10 付
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 42--43
+\JY1/mc/m/n/10 け
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 42--43
+\JY1/mc/m/n/10 た
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 42--43
+\JY1/mc/m/n/10 指 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 43--44
+[]\JY1/mc/m/n/10 厚
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 43--44
+\JY1/mc/m/n/10 さ
+ []
+
+
+Overfull \hbox (21.66673pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 6mm
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 43--44
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 43--44
+\JY1/mc/m/n/10 ゲ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 43--44
+\JY1/mc/m/n/10 ル
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 43--44
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 43--44
+\JY1/mc/m/n/10 取
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 43--44
+\JY1/mc/m/n/10 り
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 43--44
+\JY1/mc/m/n/10 付
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 43--44
+\JY1/mc/m/n/10 け
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 43--44
+\JY1/mc/m/n/10 た
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 43--44
+\JY1/mc/m/n/10 指 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 44--45
+[]\JY1/mc/m/n/10 厚
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 44--45
+\JY1/mc/m/n/10 さ
+ []
+
+
+Overfull \hbox (21.66673pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/10 9mm
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 44--45
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 44--45
+\JY1/mc/m/n/10 ゲ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 44--45
+\JY1/mc/m/n/10 ル
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 44--45
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 44--45
+\JY1/mc/m/n/10 取
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 44--45
+\JY1/mc/m/n/10 り
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 44--45
+\JY1/mc/m/n/10 付
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 44--45
+\JY1/mc/m/n/10 け
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 44--45
+\JY1/mc/m/n/10 た
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 44--45
+\JY1/mc/m/n/10 指 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 45--46
+[]\JY1/mc/m/n/10 厚
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 45--46
+\JY1/mc/m/n/10 さ
+ []
+
+
+Overfull \hbox (21.66673pt too wide) in paragraph at lines 45--46
+\OT1/cmr/m/n/10 6mm
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 45--46
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 45--46
+\JY1/mc/m/n/10 ゴ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 45--46
+\JY1/mc/m/n/10 ム
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 45--46
+\JY1/mc/m/n/10 で
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 45--46
+\JY1/mc/m/n/10 覆
+ []
+
+
+Overfull \hbox (7.47433pt too wide) in paragraph at lines 45--46
+\JY1/mc/m/n/10 っ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 45--46
+\JY1/mc/m/n/10 た
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 45--46
+\JY1/mc/m/n/10 ス
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 45--46
+\JY1/mc/m/n/10 ポ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 45--46
+\JY1/mc/m/n/10 ン
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 45--46
+\JY1/mc/m/n/10 ジ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 45--46
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 45--46
+\JY1/mc/m/n/10 取
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 45--46
+\JY1/mc/m/n/10 り
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 45--46
+\JY1/mc/m/n/10 付
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 45--46
+\JY1/mc/m/n/10 け
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 45--46
+\JY1/mc/m/n/10 指 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 46--47
+[]\JY1/mc/m/n/10 厚
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 46--47
+\JY1/mc/m/n/10 さ
+ []
+
+
+Overfull \hbox (21.66673pt too wide) in paragraph at lines 46--47
+\OT1/cmr/m/n/10 8mm
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 46--47
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 46--47
+\JY1/mc/m/n/10 ゴ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 46--47
+\JY1/mc/m/n/10 ム
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 46--47
+\JY1/mc/m/n/10 で
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 46--47
+\JY1/mc/m/n/10 覆
+ []
+
+
+Overfull \hbox (7.47433pt too wide) in paragraph at lines 46--47
+\JY1/mc/m/n/10 っ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 46--47
+\JY1/mc/m/n/10 た
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 46--47
+\JY1/mc/m/n/10 ス
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 46--47
+\JY1/mc/m/n/10 ポ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 46--47
+\JY1/mc/m/n/10 ン
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 46--47
+\JY1/mc/m/n/10 ジ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 46--47
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 46--47
+\JY1/mc/m/n/10 取
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 46--47
+\JY1/mc/m/n/10 り
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 46--47
+\JY1/mc/m/n/10 付
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 46--47
+\JY1/mc/m/n/10 け
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 46--47
+\JY1/mc/m/n/10 指 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 47--48
+[]\JY1/mc/m/n/10 厚
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 47--48
+\JY1/mc/m/n/10 さ
+ []
+
+
+Overfull \hbox (26.66675pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/n/10 10mm
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 47--48
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 47--48
+\JY1/mc/m/n/10 ゴ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 47--48
+\JY1/mc/m/n/10 ム
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 47--48
+\JY1/mc/m/n/10 で
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 47--48
+\JY1/mc/m/n/10 覆
+ []
+
+
+Overfull \hbox (7.47433pt too wide) in paragraph at lines 47--48
+\JY1/mc/m/n/10 っ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 47--48
+\JY1/mc/m/n/10 た
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 47--48
+\JY1/mc/m/n/10 ス
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 47--48
+\JY1/mc/m/n/10 ポ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 47--48
+\JY1/mc/m/n/10 ン
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 47--48
+\JY1/mc/m/n/10 ジ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 47--48
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 47--48
+\JY1/mc/m/n/10 取
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 47--48
+\JY1/mc/m/n/10 り
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 47--48
+\JY1/mc/m/n/10 付
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 47--48
+\JY1/mc/m/n/10 け
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 47--48
+\JY1/mc/m/n/10 指 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 48--49
+[]\JY1/mc/m/n/10 内
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 48--49
+\JY1/mc/m/n/10 径
+ []
+
+
+Overfull \hbox (21.66673pt too wide) in paragraph at lines 48--49
+\OT1/cmr/m/n/10 6mm
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 48--49
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 48--49
+\JY1/mc/m/n/10 ば
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 48--49
+\JY1/mc/m/n/10 ね
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 48--49
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 48--49
+\JY1/mc/m/n/10 取
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 48--49
+\JY1/mc/m/n/10 り
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 48--49
+\JY1/mc/m/n/10 付
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 48--49
+\JY1/mc/m/n/10 け
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 48--49
+\JY1/mc/m/n/10 た
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 48--49
+\JY1/mc/m/n/10 指 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 49--50
+[]\JY1/mc/m/n/10 内
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 49--50
+\JY1/mc/m/n/10 径
+ []
+
+
+Overfull \hbox (21.66673pt too wide) in paragraph at lines 49--50
+\OT1/cmr/m/n/10 7mm
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 49--50
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 49--50
+\JY1/mc/m/n/10 ば
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 49--50
+\JY1/mc/m/n/10 ね
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 49--50
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 49--50
+\JY1/mc/m/n/10 取
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 49--50
+\JY1/mc/m/n/10 り
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 49--50
+\JY1/mc/m/n/10 付
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 49--50
+\JY1/mc/m/n/10 け
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 49--50
+\JY1/mc/m/n/10 た
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 49--50
+\JY1/mc/m/n/10 指 
+ []
+
+
+! LaTeX Error: Environment table undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 \begin{table}
+                  [htbp]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54     \caption
+                 {把持実験結果}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{table}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72 \end{table}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (45.8334pt too wide) in paragraph at lines 53--73
+[][]\OT1/cmr/m/n/10 [htbp]
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 53--73
+\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 53--73
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 53--73
+\JY1/mc/m/n/10 実
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 53--73
+\JY1/mc/m/n/10 験
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 53--73
+\JY1/mc/m/n/10 結
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 53--73
+\JY1/mc/m/n/10 果[]
+ []
+
+
+Overfull \hbox (60.88863pt too wide) in paragraph at lines 53--73
+[]
+ []
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74 \begin{figure}
+                   [h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.76 \subfloat
+              [把持対象物A]{\includegraphics[scale=0.4]{../figure/result_a.e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.76 \subfloat[把持対象物A]{\includegraphics
+                                            [scale=0.4]{../figure/result_a.e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.76 ...cludegraphics[scale=0.4]{../figure/result_
+                                                  a.eps}}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.76 ...raphics[scale=0.4]{../figure/result_a.eps}
+                                                  }
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.76 ...aphics[scale=0.4]{../figure/result_a.eps}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.78 \subfloat
+              [把持対象物B]{\includegraphics[scale=0.4]{../figure/result_b.e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Not two-byte family.
+l.78 \subfloat[把
+                 持対象物B]{\includegraphics[scale=0.4]{../figure/result_b.e...
+IGNORE.
+
+! Not two-byte family.
+l.78 \subfloat[把持
+                   対象物B]{\includegraphics[scale=0.4]{../figure/result_b.e...
+IGNORE.
+
+! Not two-byte family.
+l.78 \subfloat[把持対
+                     象物B]{\includegraphics[scale=0.4]{../figure/result_b.e...
+IGNORE.
+
+! Not two-byte family.
+l.78 \subfloat[把持対象
+                       物B]{\includegraphics[scale=0.4]{../figure/result_b.e...
+IGNORE.
+
+! Not two-byte family.
+l.78 \subfloat[把持対象物
+                         B]{\includegraphics[scale=0.4]{../figure/result_b.e...
+IGNORE.
+
+! Undefined control sequence.
+l.78 \subfloat[把持対象物B]{\includegraphics
+                                            [scale=0.4]{../figure/result_b.e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.80 \subfloat
+              [把持対象物C]{\includegraphics[scale=0.4]{../figure/result_c.e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Not two-byte family.
+l.80 \subfloat[把
+                 持対象物C]{\includegraphics[scale=0.4]{../figure/result_c.e...
+IGNORE.
+
+! Not two-byte family.
+l.80 \subfloat[把持
+                   対象物C]{\includegraphics[scale=0.4]{../figure/result_c.e...
+IGNORE.
+
+! Not two-byte family.
+l.80 \subfloat[把持対
+                     象物C]{\includegraphics[scale=0.4]{../figure/result_c.e...
+IGNORE.
+
+! Not two-byte family.
+l.80 \subfloat[把持対象
+                       物C]{\includegraphics[scale=0.4]{../figure/result_c.e...
+IGNORE.
+
+! Not two-byte family.
+l.80 \subfloat[把持対象物
+                         C]{\includegraphics[scale=0.4]{../figure/result_c.e...
+IGNORE.
+
+! Undefined control sequence.
+l.80 \subfloat[把持対象物C]{\includegraphics
+                                            [scale=0.4]{../figure/result_c.e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.82 \subfloat
+              [把持対象物D]{\includegraphics[scale=0.4]{../figure/result_d.e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Not two-byte family.
+l.82 \subfloat[把
+                 持対象物D]{\includegraphics[scale=0.4]{../figure/result_d.e...
+IGNORE.
+
+! Not two-byte family.
+l.82 \subfloat[把持
+                   対象物D]{\includegraphics[scale=0.4]{../figure/result_d.e...
+IGNORE.
+
+! Not two-byte family.
+l.82 \subfloat[把持対
+                     象物D]{\includegraphics[scale=0.4]{../figure/result_d.e...
+IGNORE.
+
+! Not two-byte family.
+l.82 \subfloat[把持対象
+                       物D]{\includegraphics[scale=0.4]{../figure/result_d.e...
+IGNORE.
+
+! Not two-byte family.
+l.82 \subfloat[把持対象物
+                         D]{\includegraphics[scale=0.4]{../figure/result_d.e...
+IGNORE.
+
+! Undefined control sequence.
+l.82 \subfloat[把持対象物D]{\includegraphics
+                                            [scale=0.4]{../figure/result_d.e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.84 \subfloat
+              [把持対象物E 上部の突起]{\includegraphics[scale=0.4]{../figure...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Not two-byte family.
+l.84 \subfloat[把
+                 持対象物E 上部の突起]{\includegraphics[scale=0.4]{../figure...
+IGNORE.
+
+! Not two-byte family.
+l.84 \subfloat[把持
+                   対象物E 上部の突起]{\includegraphics[scale=0.4]{../figure...
+IGNORE.
+
+! Not two-byte family.
+l.84 \subfloat[把持対
+                     象物E 上部の突起]{\includegraphics[scale=0.4]{../figure...
+IGNORE.
+
+! Not two-byte family.
+l.84 \subfloat[把持対象
+                       物E 上部の突起]{\includegraphics[scale=0.4]{../figure...
+IGNORE.
+
+! Not two-byte family.
+l.84 \subfloat[把持対象物
+                         E 上部の突起]{\includegraphics[scale=0.4]{../figure...
+IGNORE.
+
+! Not two-byte family.
+l.84 \subfloat[把持対象物E 上
+                             部の突起]{\includegraphics[scale=0.4]{../figure...
+IGNORE.
+
+! Not two-byte family.
+l.84 \subfloat[把持対象物E 上部
+                               の突起]{\includegraphics[scale=0.4]{../figure...
+IGNORE.
+
+! Not two-byte family.
+l.84 \subfloat[把持対象物E 上部の
+                                 突起]{\includegraphics[scale=0.4]{../figure...
+IGNORE.
+
+! Not two-byte family.
+l.84 \subfloat[把持対象物E 上部の突
+                                   起]{\includegraphics[scale=0.4]{../figure...
+IGNORE.
+
+! Not two-byte family.
+l.84 \subfloat[把持対象物E 上部の突起
+                                     ]{\includegraphics[scale=0.4]{../figure...
+IGNORE.
+
+! Undefined control sequence.
+l.84 ...t[把持対象物E 上部の突起]{\includegraphics
+                                                  [scale=0.4]{../figure/resu...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.86 \subfloat
+              [把持対象物E 下部の外周部]{\includegraphics[scale=0.4]{../figu...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Not two-byte family.
+l.86 \subfloat[把
+                 持対象物E 下部の外周部]{\includegraphics[scale=0.4]{../figu...
+IGNORE.
+
+! Not two-byte family.
+l.86 \subfloat[把持
+                   対象物E 下部の外周部]{\includegraphics[scale=0.4]{../figu...
+IGNORE.
+
+! Not two-byte family.
+l.86 \subfloat[把持対
+                     象物E 下部の外周部]{\includegraphics[scale=0.4]{../figu...
+IGNORE.
+
+! Not two-byte family.
+l.86 \subfloat[把持対象
+                       物E 下部の外周部]{\includegraphics[scale=0.4]{../figu...
+IGNORE.
+
+! Not two-byte family.
+l.86 \subfloat[把持対象物
+                         E 下部の外周部]{\includegraphics[scale=0.4]{../figu...
+IGNORE.
+
+! Not two-byte family.
+l.86 \subfloat[把持対象物E 下
+                             部の外周部]{\includegraphics[scale=0.4]{../figu...
+IGNORE.
+
+! Not two-byte family.
+l.86 \subfloat[把持対象物E 下部
+                               の外周部]{\includegraphics[scale=0.4]{../figu...
+IGNORE.
+
+! Not two-byte family.
+l.86 \subfloat[把持対象物E 下部の
+                                 外周部]{\includegraphics[scale=0.4]{../figu...
+IGNORE.
+
+! Not two-byte family.
+l.86 \subfloat[把持対象物E 下部の外
+                                   周部]{\includegraphics[scale=0.4]{../figu...
+IGNORE.
+
+! Not two-byte family.
+l.86 \subfloat[把持対象物E 下部の外周
+                                     部]{\includegraphics[scale=0.4]{../figu...
+IGNORE.
+
+! Not two-byte family.
+l.86 \subfloat[把持対象物E 下部の外周部
+                                       ]{\includegraphics[scale=0.4]{../figu...
+IGNORE.
+
+! Undefined control sequence.
+l.86 ...把持対象物E 下部の外周部]{\includegraphics
+                                                  [scale=0.4]{../figure/resu...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 \caption
+             {厚さ3mmのゲルの指での把持の様子}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Not two-byte family.
+l.88 \caption{厚
+                さ3mmのゲルの指での把持の様子}
+IGNORE.
+
+! Not two-byte family.
+l.88 \caption{厚さ
+                  3mmのゲルの指での把持の様子}
+IGNORE.
+
+! Not two-byte family.
+l.88 \caption{厚さ3mmの
+                       ゲルの指での把持の様子}
+IGNORE.
+
+! Not two-byte family.
+l.88 \caption{厚さ3mmのゲ
+                         ルの指での把持の様子}
+IGNORE.
+
+! Not two-byte family.
+l.88 \caption{厚さ3mmのゲル
+                           の指での把持の様子}
+IGNORE.
+
+! Not two-byte family.
+l.88 \caption{厚さ3mmのゲルの
+                             指での把持の様子}
+IGNORE.
+
+! Not two-byte family.
+l.88 \caption{厚さ3mmのゲルの指
+                               での把持の様子}
+IGNORE.
+
+! Not two-byte family.
+l.88 \caption{厚さ3mmのゲルの指で
+                                 の把持の様子}
+IGNORE.
+
+! Not two-byte family.
+l.88 \caption{厚さ3mmのゲルの指での
+                                   把持の様子}
+IGNORE.
+
+! Not two-byte family.
+l.88 \caption{厚さ3mmのゲルの指での把
+                                     持の様子}
+IGNORE.
+
+! Not two-byte family.
+l.88 \caption{厚さ3mmのゲルの指での把持
+                                       の様子}
+IGNORE.
+
+! Not two-byte family.
+l.88 \caption{厚さ3mmのゲルの指での把持の
+                                         様子}
+IGNORE.
+
+! Not two-byte family.
+l.88 \caption{厚さ3mmのゲルの指での把持の様
+                                           子}
+IGNORE.
+
+! Not two-byte family.
+l.88 \caption{厚さ3mmのゲルの指での把持の様子
+                                             }
+IGNORE.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.90 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.90 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.90 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (31.11115pt too wide) in paragraph at lines 74--91
+[][]\OT1/cmr/m/n/10 [h]
+ []
+
+
+Overfull \hbox (12.39995pt too wide) in paragraph at lines 74--91
+\OT1/cmr/m/n/10 [\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 74--91
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 74--91
+\JY1/mc/m/n/10 対
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 74--91
+\JY1/mc/m/n/10 象
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 74--91
+\JY1/mc/m/n/10 物
+ []
+
+
+Overfull \hbox (1377.8991pt too wide) in paragraph at lines 74--91
+\OT1/cmr/m/n/10 A][scale=0.4]../figure/result$[]\OML/cmm/m/it/10 :eps \OT1/cmr/
+m/n/10 [^^@^^@^^@^^@^^@\OML/cmm/m/it/10 B\OT1/cmr/m/n/10 ][] [^^@^^@^^@^^@^^@\O
+ML/cmm/m/it/10 C\OT1/cmr/m/n/10 ][] [^^@^^@^^@^^@^^@\OML/cmm/m/it/10 D\OT1/cmr/
+m/n/10 ][] [^^@^^@^^@^^@^^@\OML/cmm/m/it/10 E\OT1/cmr/m/n/10 ^^@^^@^^@^^@^^@][]
+ [^^@^^@^^@^^@^^@\OML/cmm/m/it/10 E\OT1/cmr/m/n/10 ^^@^^@^^@^^@^^@^^@][] [][]$ 
+
+ []
+
+)
+! Emergency stop.
+<*> experiments.tex
+                   
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 14 strings out of 493723
+ 156 string characters out of 6152570
+ 66531 words of memory out of 5000000
+ 3652 multiletter control sequences out of 15000+600000
+ 7511 words of font info for 31 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 19i,6n,12p,333b,159s stack positions out of 5000i,500n,10000p,200000b,80000s
+Output written on experiments.dvi (2 pages, 2368 bytes).
