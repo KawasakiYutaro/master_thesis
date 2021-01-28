@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015/Debian) (preloaded format=platex 2019.1.29)  27 JAN 2021 14:28
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015/Debian) (preloaded format=platex 2019.1.29)  27 JAN 2021 22:17
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -427,7 +427,11 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[3] (./contents/background.tex) [4] (./contents/principle.tex
+[3] (./contents/background.tex
+
+LaTeX Warning: Reference `fig::robotiq' on page 4 undefined on input line 3.
+
+) [4] (./contents/principle.tex
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
@@ -444,14 +448,18 @@ Missing character: There is no ^^93 in font cmr12!
 Package caption Warning: Unused \captionsetup[figure] on input line 22.
 See the caption package documentation for explanation.
 
-[6] (./main.aux) ) 
+[6] (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 6155 strings out of 493723
- 90109 string characters out of 6152570
- 163146 words of memory out of 5000000
- 9543 multiletter control sequences out of 15000+600000
+ 6162 strings out of 493723
+ 90197 string characters out of 6152570
+ 163190 words of memory out of 5000000
+ 9550 multiletter control sequences out of 15000+600000
  26915 words of font info for 104 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 38i,11n,43p,638b,260s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,11n,43p,702b,260s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (6 pages, 11252 bytes).
+Output written on main.dvi (6 pages, 12100 bytes).
