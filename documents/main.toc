@@ -1,4 +1,14 @@
 \contentsline {section}{\numberline {1}序論}{4}
-\contentsline {section}{\numberline {2}把持原理}{5}
-\contentsline {subsection}{\numberline {2.1}摩擦力による把持}{5}
-\contentsline {section}{参考文献}{6}
+\contentsline {section}{\numberline {2}構造}{5}
+\contentsline {subsection}{\numberline {2.1}柔軟指}{5}
+\contentsline {subsection}{\numberline {2.2}ラティス構造}{5}
+\contentsline {subsection}{\numberline {2.3}力覚センサ}{6}
+\contentsline {subsubsection}{\numberline {2.3.1}動作原理}{6}
+\contentsline {section}{\numberline {3}実験}{7}
+\contentsline {subsection}{\numberline {3.1}基礎実験}{7}
+\contentsline {subsubsection}{\numberline {3.1.1}実験手順}{7}
+\contentsline {subsection}{\numberline {3.2}結果と考察}{7}
+\contentsline {section}{\numberline {4}球面化}{8}
+\contentsline {subsection}{\numberline {4.1}荷重実験}{8}
+\contentsline {subsection}{\numberline {4.2}比較実験}{8}
+\contentsline {section}{参考文献}{9}
