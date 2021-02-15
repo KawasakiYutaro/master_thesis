@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015/Debian) (preloaded format=platex 2019.1.29)  9 FEB 2021 00:24
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015/Debian) (preloaded format=platex 2019.1.29)  12 FEB 2021 12:04
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -432,47 +432,65 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Warning: Reference `fig::robotiq' on page 4 undefined on input line 3.
 
 ) [4] (./contents/finger.tex
+File: ../fig/eps/gripper.eps Graphic file (type eps)
+ <../fig/eps/gripper.eps>
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 2.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 13.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 2.
-
-
-LaTeX Warning: Reference `fig::latice' on page 5 undefined on input line 6.
-
-File: ../fig/eps/soft_finger.eps Graphic file (type eps)
-<../fig/eps/soft_finger.eps>
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 13.
 File: ../fig/eps/agilista.eps Graphic file (type eps)
- <../fig/eps/agilista.eps>
 
-LaTeX Warning: Reference `fig::ina' on page 5 undefined on input line 31.
+<../fig/eps/agilista.eps>
+File: ../fig/eps/soft_fingerB.eps Graphic file (type eps)
+ <../fig/eps/soft_fingerB.eps>
+File: ../fig/eps/soft_finger.eps Graphic file (type eps)
 
-[5] [6]) (./contents/experiment.tex
+<../fig/eps/soft_finger.eps>
 
-LaTeX Warning: Reference `fig::force_gauge' on page 7 undefined on input line 3
-.
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: ../fig/eps/semi_finger.eps Graphic file (type eps)
+<../fig/eps/semi_finger.eps>
+File: ../fig/eps/semi_finger_b.eps Graphic file (type eps)
+ <../fig/eps/semi_finger_b.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `fig::latice' on page 5 undefined on input line 50.
+
+[5]
+File: ../fig/eps/latice.eps Graphic file (type eps)
+ <../fig/eps/latice.eps>
+File: ../fig/eps/ina.eps Graphic file (type eps)
+ <../fig/eps/ina.eps> [6])
+(./contents/experiment.tex
+
+LaTeX Warning: Reference `fig::objecht' on page 7 undefined on input line 3.
 
 
 LaTeX Warning: Reference `fig::result0' on page 7 undefined on input line 3.
 
-[7]) (./contents/sphericalization.tex
-File: ../fig/eps/semi_finger.eps Graphic file (type eps)
- <../fig/eps/semi_finger.eps>
-File: ../fig/eps/semi_finger_b.eps Graphic file (type eps)
+[7]
 
-<../fig/eps/semi_finger_b.eps>) [8] (./contents/acknowledgement.tex) [9]
-(./main.aux)
+LaTeX Warning: Reference `fig::force_gauge' on page 8 undefined on input line 1
+2.
+
+[8]) (./contents/acknowledgement.tex) [9] (./main.aux)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 6185 strings out of 493723
- 90700 string characters out of 6152570
- 163163 words of memory out of 5000000
- 9558 multiletter control sequences out of 15000+600000
+ 6192 strings out of 493723
+ 90784 string characters out of 6152570
+ 165176 words of memory out of 5000000
+ 9564 multiletter control sequences out of 15000+600000
  26915 words of font info for 104 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  38i,11n,49p,800b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (9 pages, 18792 bytes).
+Output written on main.dvi (9 pages, 18080 bytes).
