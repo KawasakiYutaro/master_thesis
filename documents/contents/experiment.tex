@@ -1,75 +1,137 @@
 \section{実験}
-\subsection{把持実験}
-力覚センサを組み込んだ柔軟指で把持対象物を把持したときのセンサの応答を検証した．実験手順は以下の通りである．把持対象物を\refig{objecht}に示す．計測誤差結果を\refig{result0}に示す．
+\subsection{実験器具}
+\subsubsection{把持対象物}
+把持対象物を\refig{obj}に示す．フォースゲージ(\refig{force_gauge})で引っ張ることができるようにそれぞれフックが取り付けられている．
 
-\begin{enumerate}
-  \item 力覚センサを組み込んだ柔軟指で対象物を把持する．  
-  \item 把持時の力覚センサの電圧値を測定する．
-\end{enumerate}
+\begin{figure}[h]
+\centering
+\subfloat[球]{\includegraphics[scale=0.4]{../fig/eps/ball.eps}}
+\hspace{7mm}
+\\
+\subfloat[円筒]{\includegraphics[scale=0.4]{../fig/eps/pole.eps}}
+\hspace{7mm}
+\subfloat[ボトル]{\includegraphics[scale=0.4]{../fig/eps/bottle.eps}}
+\hspace{7mm}
+\caption{把持対象物}
+\label{fig::obj}
+\end{figure}
 
-\subsubsection{引張実験}
-引張力を検証することで把持対象物に加わる把持力を測定する．以下に実験手順を示す．
-実験で使用したフォースゲージを\refig{force_gauge}に示す．
+\begin{figure}[h]
+ \begin{center}
+  \includegraphics[scale=0.4]{../fig/eps/force_gauge.eps}
+ \caption{フォースゲージ}
+  \label{fig::force_gauge}
+ \end{center}
+\end{figure}
+\newpage
 
-\begin{enumerate}
-  \item 力覚センサを組み込んだ柔軟指で対象物を把持する．  
-  \item フォースゲージを用いて対象物を鉛直下向きに引っ張った．
-  \item 
-\end{enumerate}把持対象物が動いたときの引っ張り力を計測した．
+\subsubsection{センサ使用回路}
+イナストマーで力計測をするための専用ソフトウェアである．\refig{ina_kairo}に示す専用回路をPCとUSB接続して用いる．イナストマー購入時に付属される．
 
-\subsection{結果と考察}
+
+\subsubsection{産業用ロボット}
+本実験で使用した産業用ロボット(株式会社デンソー製VS087)を\refig{robo}に示す．
+
+
+\begin{figure}[h]
+ \begin{center}
+  \includegraphics[scale=0.5]{../fig/eps/ina_kairo.eps}
+ \caption{専用回路}
+  \label{fig::ina_kairo}
+ \end{center}
+\end{figure}
+
+\begin{figure}[h]
+ \begin{center}
+  \includegraphics[scale=0.5]{../fig/eps/robo.eps}
+ \caption{産業用ロボット}
+  \label{fig::robo}
+ \end{center}
+\end{figure}
 
 \newpage
 
+\subsection{把持実験}
+\subsubsection{基礎実験}
+力覚センサを組み込んだ柔軟指5秒間把持対象物を把持したときのセンサの応答を検証した．計測誤差結果を\refig{result_sf},\refig{result_sm}に示す．
 
-%\subsubsection{実験結果}
-%使用した指は以下の通りである.実験結果を\reftab{result}にまとめる．把持成功は◯,把持失敗は×を表している.把持対象物Eは上部の突起部と下部の外周部での把持が両方成功した時把持成功とみなした.\reftab{result}の横軸は\refig{denso_parts}の割り振った記号と対応し縦軸は以下の指の番号と対応している.
+\subsubsection{荷重実験}
+グリッパの把持力を増加させた時の力覚センサの応答を計測した．結果を\refig{result_e2_sf},\refig{result_e2_sm}に示す．
 
-%\begin{enumerate}
-  %\item 柔軟物のない指
-  %\item 厚さ3mmのゲルを取り付けた指
-  
-  
-%\end{enumerate}
+\subsubsection{引張実験}
+把持した対象物を鉛直下向きにフォースゲージで引っ張り把持対象物が動いたときの静止摩擦力を計測した．荷重実験と同様にグリッパの把持力を増加させ繰り返した．結果を\refig{result_e3}を示す.
 
-%\begin{table}[htbp]
- %   \caption{把持実験結果}
- 
-%  \label{tab::result}
-   %\scalebox{3}[1.5]
-  % \centering
-   %\begin{tabular}{|c||c|c|c|c|c|} \hline
-      %    &A    &B     &C      &D     &E        %\\ \hline \hline
- %       (1) & ◯ & ◯  & ×  & ◯ & ×  \\ \hline
-   %     (2) & ◯ & ◯  & ◯  & ◯ & ◯  \\ \hline
-    %    (3) & ◯ & ◯  & ◯  & ◯ & ◯  \\ \hline
-	%	(4) & ◯ & ◯  & ◯  & ◯ & ×  \\ \hline
-	%	(5) & ◯ & ◯  & ◯  & ◯ & ×  \\ \hline				
-	%	(6) & ◯ & ◯  & ◯  & ◯ & ×  \\ \hline
-	%	(7) & ◯ & ◯  & ◯  & ◯ & ×  \\ \hline
-	%	(8) & × & ×  & ×  & × & ×  \\ \hline		
-	%	(9) & × & ×  & ×  & × & ×  \\ \hline		
-			
-		
-    %\end{tabular}
-%\end{table}
 
-%\begin{figure}[h]
-%\centering
-%\subfloat[把持対象物A]{\includegraphics[scale=0.4]{../figure/result_a.eps}}
-%\hspace{5mm}
-%\subfloat[把持対象物B]{\includegraphics[scale=0.4]{../figure/result_b.eps}}
-%\hspace{5mm}
-%\subfloat[把持対象物C]{\includegraphics[scale=0.4]{../figure/result_c.eps}}
-%\hspace{5mm}
-%\subfloat[把持対象物D]{\includegraphics[scale=0.4]{../figure/result_d.eps}}
-%\hspace{5mm}
-%\subfloat[把持対象物E 上部の突起]{\includegraphics[scale=0.4]{../figure/result_e1.eps}}
-%\hspace{5mm}
-%\subfloat[把持対象物E 下部の外周部]{\includegraphics[scale=0.4]{../figure/result_e2.eps}}
-%\hspace{5mm}
-%\caption{厚さ3mmのゲルの指での把持の様子}
-%\label{fig::sisaku}
-%\end{figure}
+\begin{figure}[htbp]
+\centering
+\subfloat[球]{\includegraphics[scale=0.5]{../fig/eps/e0_sf_ball.eps}}
+\hspace{5mm}\\
+\subfloat[円筒]{\includegraphics[scale=0.5]{../fig/eps/e0_sf_pole.eps}}
+\hspace{5mm}\\
+\subfloat[ボトル]{\includegraphics[scale=0.5]{../fig/eps/e0_sf_bottle.eps}}
+\hspace{5mm}\\
+\caption{把持実験結果(通常指)}
+\label{fig::result_sf}
+\end{figure}
+
+\clearpage
+
+\begin{figure}[htbp]
+\centering
+\subfloat[球]{\includegraphics[scale=0.5]{../fig/eps/e0_sm_ball.eps}}
+\hspace{5mm}\\
+\subfloat[円筒]{\includegraphics[scale=0.5]{../fig/eps/e0_sm_pole.eps}}
+\hspace{5mm}\\
+\subfloat[ボトル]{\includegraphics[scale=0.5]{../fig/eps/e0_sm_bottle.eps}}
+\hspace{5mm}
+\caption{把持実験結果(半球型指)}
+\label{fig::result_sm}
+\end{figure}
+
+\clearpage
+
+
+
+\begin{figure}[htbp]
+\centering
+\subfloat[球]{\includegraphics[scale=0.85]{../fig/eps/e2_sf_ball.eps}}
+\hspace{5mm}\\
+\subfloat[円筒]{\includegraphics[scale=0.85]{../fig/eps/e2_sf_pole.eps}}
+\hspace{5mm}\\
+\subfloat[ボトル]{\includegraphics[scale=0.85]{../fig/eps/e2_sf_bottle.eps}}
+\hspace{5mm}\\
+\caption{荷重実験結果(通常指)}
+\label{fig::result_e2_sf}
+\end{figure}
+
+\clearpage
+
+\begin{figure}[htbp]
+\centering
+\subfloat[球]{\includegraphics[scale=0.85]{../fig/eps/e2_sm_ball.eps}}
+\hspace{5mm}\\
+\subfloat[円筒]{\includegraphics[scale=0.85]{../fig/eps/e2_sm_pole.eps}}
+\hspace{5mm}\\
+\subfloat[ボトル]{\includegraphics[scale=0.85]{../fig/eps/e2_sm_bottle.eps}}
+\hspace{5mm}\\
+\caption{荷重実験結果(半球型指)}
+\label{fig::result_e2_sm}
+\end{figure}
+
+\clearpage
+
+\begin{figure}[htbp]
+\centering
+\subfloat[球]{\includegraphics[scale=0.85]{../fig/eps/e3_ball.eps}}
+\hspace{5mm}\\
+\subfloat[円筒]{\includegraphics[scale=0.85]{../fig/eps/e3_cylinder.eps}}
+\hspace{5mm}\\
+\subfloat[ボトル]{\includegraphics[scale=0.85]{../fig/eps/e3_bottle.eps}}
+\hspace{5mm}\\
+\caption{引張実験結果}
+\label{fig::result_e3}
+\end{figure}
+
+\clearpage
 
 

@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015/Debian) (preloaded format=platex 2019.1.29)  12 FEB 2021 12:04
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015/Debian) (preloaded format=platex 2019.1.29)  17 FEB 2021 21:17
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -378,22 +378,22 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 Excluding comment 'comment') (../sty/jdummy.def)) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
 \c@lstlisting=\count125
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
@@ -406,11 +406,11 @@ LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.95> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.95> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 1.
-) [2]
+) [1]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 31.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 36.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 31.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 36.
  (./main.toc
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
@@ -420,77 +420,165 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
+ [0] (./contents/background.tex
+Overfull \hbox (4.51778pt too wide) in paragraph at lines 5--5
+[][]\JY1/mc/m/n/12 多関節グリ ッ パの代表例として \OT1/cmr/m/n/12 ROBO-TIQ \JY1
+/mc/m/n/12 社の \OT1/cmr/m/n/12 ROBO-TIQ ADAP-TIVE GRIP-PER 3-FINGER
+ []
 
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 16.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
+LaTeX Warning: Citation `hole' on page 1 undefined on input line 10.
 
-[3] (./contents/background.tex
+File: ../fig/eps/robotiq.eps Graphic file (type eps)
+<../fig/eps/robotiq.eps>
 
-LaTeX Warning: Reference `fig::robotiq' on page 4 undefined on input line 3.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [4] (./contents/finger.tex
+) [1] (./contents/finger.tex
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 2.
+File: ../fig/eps/tercelo_fig.eps Graphic file (type eps)
+ <../fig/eps/tercelo_fig.eps>
+File: ../fig/eps/tercelo.eps Graphic file (type eps)
+
+<../fig/eps/tercelo.eps>
 File: ../fig/eps/gripper.eps Graphic file (type eps)
  <../fig/eps/gripper.eps>
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 13.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 13.
-File: ../fig/eps/agilista.eps Graphic file (type eps)
-
-<../fig/eps/agilista.eps>
-File: ../fig/eps/soft_fingerB.eps Graphic file (type eps)
- <../fig/eps/soft_fingerB.eps>
-File: ../fig/eps/soft_finger.eps Graphic file (type eps)
-
-<../fig/eps/soft_finger.eps>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-File: ../fig/eps/semi_finger.eps Graphic file (type eps)
-<../fig/eps/semi_finger.eps>
-File: ../fig/eps/semi_finger_b.eps Graphic file (type eps)
- <../fig/eps/semi_finger_b.eps>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Reference `fig::latice' on page 5 undefined on input line 50.
+LaTeX Warning: Reference `fig::sm_cad' on page 2 undefined on input line 25.
 
-[5]
-File: ../fig/eps/latice.eps Graphic file (type eps)
- <../fig/eps/latice.eps>
+[2]
+File: ../fig/eps/sf_cad_front.eps Graphic file (type eps)
+ <../fig/eps/sf_cad_front.eps>
+File: ../fig/eps/sf_cad_side.eps Graphic file (type eps)
+ <../fig/eps/sf_cad_side.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: ../fig/eps/sf_front.eps Graphic file (type eps)
+<../fig/eps/sf_front.eps>
+File: ../fig/eps/sf_side.eps Graphic file (type eps)
+ <../fig/eps/sf_side.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: ../fig/eps/sm_cad_front.eps Graphic file (type eps)
+<../fig/eps/sm_cad_front.eps>
+File: ../fig/eps/sm_cad_side.eps Graphic file (type eps)
+ <../fig/eps/sm_cad_side.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: ../fig/eps/sm_front.eps Graphic file (type eps)
+<../fig/eps/sm_front.eps>
+File: ../fig/eps/sm_side.eps Graphic file (type eps)
+ <../fig/eps/sm_side.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3] [4]
+File: ../fig/eps/sf_latice.eps Graphic file (type eps)
+ <../fig/eps/sf_latice.eps>
+File: ../fig/eps/sm_latice.eps Graphic file (type eps)
+ <../fig/eps/sm_latice.eps> [5
+
+]
 File: ../fig/eps/ina.eps Graphic file (type eps)
- <../fig/eps/ina.eps> [6])
-(./contents/experiment.tex
 
-LaTeX Warning: Reference `fig::objecht' on page 7 undefined on input line 3.
+<../fig/eps/ina.eps>
+File: ../fig/eps/ina_fig.eps Graphic file (type eps)
+ <../fig/eps/ina_fig.eps> [6]) (./contents/experiment.tex
+File: ../fig/eps/ball.eps Graphic file (type eps)
+
+<../fig/eps/ball.eps>
+File: ../fig/eps/pole.eps Graphic file (type eps)
+ <../fig/eps/pole.eps>
+File: ../fig/eps/bottle.eps Graphic file (type eps)
+ <../fig/eps/bottle.eps>
+File: ../fig/eps/force_gauge.eps Graphic file (type eps)
+
+<../fig/eps/force_gauge.eps> [7]
+File: ../fig/eps/ina_kairo.eps Graphic file (type eps)
+ <../fig/eps/ina_kairo.eps>
+File: ../fig/eps/robo.eps Graphic file (type eps)
+
+<../fig/eps/robo.eps> [8]
+File: ../fig/eps/e0_sf_ball.eps Graphic file (type eps)
+ <../fig/eps/e0_sf_ball.eps>
+File: ../fig/eps/e0_sf_pole.eps Graphic file (type eps)
+
+<../fig/eps/e0_sf_pole.eps>
+File: ../fig/eps/e0_sf_bottle.eps Graphic file (type eps)
+ <../fig/eps/e0_sf_bottle.eps> [9] [10]
+File: ../fig/eps/e0_sm_ball.eps Graphic file (type eps)
+
+<../fig/eps/e0_sm_ball.eps>
+File: ../fig/eps/e0_sm_pole.eps Graphic file (type eps)
+ <../fig/eps/e0_sm_pole.eps>
+File: ../fig/eps/e0_sm_bottle.eps Graphic file (type eps)
+
+<../fig/eps/e0_sm_bottle.eps> [11]
+File: ../fig/eps/e2_sf_ball.eps Graphic file (type eps)
+ <../fig/eps/e2_sf_ball.eps>
+File: ../fig/eps/e2_sf_pole.eps Graphic file (type eps)
+
+<../fig/eps/e2_sf_pole.eps>
+File: ../fig/eps/e2_sf_bottle.eps Graphic file (type eps)
+ <../fig/eps/e2_sf_bottle.eps> [12
 
 
-LaTeX Warning: Reference `fig::result0' on page 7 undefined on input line 3.
+]
+File: ../fig/eps/e2_sm_ball.eps Graphic file (type eps)
 
-[7]
+<../fig/eps/e2_sm_ball.eps>
+File: ../fig/eps/e2_sm_pole.eps Graphic file (type eps)
+ <../fig/eps/e2_sm_pole.eps>
+File: ../fig/eps/e2_sm_bottle.eps Graphic file (type eps)
 
-LaTeX Warning: Reference `fig::force_gauge' on page 8 undefined on input line 1
-2.
+<../fig/eps/e2_sm_bottle.eps> [13
 
-[8]) (./contents/acknowledgement.tex) [9] (./main.aux)
+]
+File: ../fig/eps/e3_ball.eps Graphic file (type eps)
+ <../fig/eps/e3_ball.eps>
+File: ../fig/eps/e3_cylinder.eps Graphic file (type eps)
+
+<../fig/eps/e3_cylinder.eps>
+File: ../fig/eps/e3_bottle.eps Graphic file (type eps)
+ <../fig/eps/e3_bottle.eps> [14
+
+])
+(./contents/discussion.tex
+File: ../fig/eps/cap_grasp.eps Graphic file (type eps)
+ <../fig/eps/cap_grasp.eps>)
+(./contents/conclutions.tex) (./contents/acknowledgement.tex [15
+
+])
+Missing character: There is no ^^e2 in font cmr12!
+Missing character: There is no ^^80 in font cmr12!
+Missing character: There is no ^^93 in font cmr12!
+ [16]
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+[][]\JY1/mc/m/n/12 イナバゴム株式会社\OT1/cmr/m/n/12 , \JY1/mc/m/n/12 ” イナス
+トマ ーの原理とメカニズム ” \OT1/cmr/m/n/12 ,http://www.inaba-
+ []
+
+[17] (./main.aux)
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 6192 strings out of 493723
- 90784 string characters out of 6152570
- 165176 words of memory out of 5000000
- 9564 multiletter control sequences out of 15000+600000
+ 6279 strings out of 493723
+ 92243 string characters out of 6152570
+ 165455 words of memory out of 5000000
+ 9615 multiletter control sequences out of 15000+600000
  26915 words of font info for 104 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 38i,11n,49p,800b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,10n,49p,812b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (9 pages, 18080 bytes).
+Output written on main.dvi (20 pages, 42700 bytes).

@@ -1,0 +1,5018 @@
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015/Debian) (preloaded format=platex 2019.1.29)  17 FEB 2021 14:06
+entering extended mode
+ restricted \write18 enabled.
+ Source specials enabled.
+ %&-line parsing enabled.
+**experiment.tex
+(./experiment.tex
+pLaTeX2e <2006/11/10> (based on LaTeX2e <2016/02/01> patch level 0)
+Babel <3.9n> and hyphenation patterns for 80 languages loaded.
+! Undefined control sequence.
+l.1 \section
+            {実験}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{実
+               験}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.2 \subsection
+               {実験用具}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3 \subsubsection
+                  {把持対象物}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4 把持対象物を\refig
+                      {obj}に示す．フォースゲージ(\refig{force_gauge})で引っ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4 ...を\refig{obj}に示す．フォースゲージ(\refig
+                                                 {force_gauge})で引っ張ることが
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.4 ...ig{obj}に示す．フォースゲージ(\refig{force_
+                                                  gauge})で引っ張ることがで...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+! Extra }, or forgotten $.
+l.4 ...}に示す．フォースゲージ(\refig{force_gauge}
+                                                  )で引っ張ることができるよ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Not two-byte family.
+l.4 ...示す．フォースゲージ(\refig{force_gauge})で
+                                                  引っ張ることができるように...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...す．フォースゲージ(\refig{force_gauge})で引
+                                                  っ張ることができるようにそ...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...．フォースゲージ(\refig{force_gauge})で引っ
+                                                  張ることができるようにそれ...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...フォースゲージ(\refig{force_gauge})で引っ張
+                                                  ることができるようにそれぞ...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...ォースゲージ(\refig{force_gauge})で引っ張る
+                                                  ことができるようにそれぞれ...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...ースゲージ(\refig{force_gauge})で引っ張るこ
+                                                  とができるようにそれぞれフ...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...スゲージ(\refig{force_gauge})で引っ張ること
+                                                  ができるようにそれぞれフッ...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...ゲージ(\refig{force_gauge})で引っ張ることが
+                                                  できるようにそれぞれフック...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...ージ(\refig{force_gauge})で引っ張ることがで
+                                                  きるようにそれぞれフックが...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...ジ(\refig{force_gauge})で引っ張ることができ
+                                                  るようにそれぞれフックが取...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...(\refig{force_gauge})で引っ張ることができる
+                                                  ようにそれぞれフックが取り...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...refig{force_gauge})で引っ張ることができるよ
+                                                  うにそれぞれフックが取り付...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...fig{force_gauge})で引っ張ることができるよう
+                                                  にそれぞれフックが取り付け...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...g{force_gauge})で引っ張ることができるように
+                                                  それぞれフックが取り付けら...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...force_gauge})で引っ張ることができるようにそ
+                                                  れぞれフックが取り付けられ...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...rce_gauge})で引っ張ることができるようにそれ
+                                                  ぞれフックが取り付けられて...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...e_gauge})で引っ張ることができるようにそれぞ
+                                                  れフックが取り付けられてい...
+IGNORE.
+
+! Not two-byte family.
+l.4 ...gauge})で引っ張ることができるようにそれぞれ
+                                                  フックが取り付けられている．
+IGNORE.
+
+! Not two-byte family.
+l.4 ...uge})で引っ張ることができるようにそれぞれフ
+                                                  ックが取り付けられている．
+IGNORE.
+
+! Not two-byte family.
+l.4 ...e})で引っ張ることができるようにそれぞれフッ
+                                                  クが取り付けられている．
+IGNORE.
+
+! Not two-byte family.
+l.4 ...)で引っ張ることができるようにそれぞれフック
+                                                  が取り付けられている．
+IGNORE.
+
+! Not two-byte family.
+l.4 ...引っ張ることができるようにそれぞれフックが
+                                                 取り付けられている．
+IGNORE.
+
+! Not two-byte family.
+l.4 ...っ張ることができるようにそれぞれフックが取
+                                                 り付けられている．
+IGNORE.
+
+! Not two-byte family.
+l.4 ...張ることができるようにそれぞれフックが取り
+                                                 付けられている．
+IGNORE.
+
+! Not two-byte family.
+l.4 ...ることができるようにそれぞれフックが取り付
+                                                 けられている．
+IGNORE.
+
+! Not two-byte family.
+l.4 ...ことができるようにそれぞれフックが取り付け
+                                                 られている．
+IGNORE.
+
+! Not two-byte family.
+l.4 ...とができるようにそれぞれフックが取り付けら
+                                                 れている．
+IGNORE.
+
+! Not two-byte family.
+l.4 ...ができるようにそれぞれフックが取り付けられ
+                                                 ている．
+IGNORE.
+
+! Not two-byte family.
+l.4 ...できるようにそれぞれフックが取り付けられて
+                                                 いる．
+IGNORE.
+
+! Not two-byte family.
+l.4 ...きるようにそれぞれフックが取り付けられてい
+                                                 る．
+IGNORE.
+
+! Not two-byte family.
+l.4 ...るようにそれぞれフックが取り付けられている
+                                                 ．
+IGNORE.
+
+! Not two-byte family.
+l.4 ...ようにそれぞれフックが取り付けられている．
+                                                 
+IGNORE.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.5 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (29.62216pt too wide) in paragraph at lines 1--5
+[][]\JY1/mc/m/n/10 実
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--5
+\JY1/mc/m/n/10 験
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--5
+\JY1/mc/m/n/10 実
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--5
+\JY1/mc/m/n/10 験
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--5
+\JY1/mc/m/n/10 用
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--5
+\JY1/mc/m/n/10 具
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--5
+\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--5
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--5
+\JY1/mc/m/n/10 対
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--5
+\JY1/mc/m/n/10 象
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--5
+\JY1/mc/m/n/10 物
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--5
+\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--5
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--5
+\JY1/mc/m/n/10 対
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--5
+\JY1/mc/m/n/10 象
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--5
+\JY1/mc/m/n/10 物
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--5
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (14.1667pt too wide) in paragraph at lines 1--5
+\OT1/cmr/m/n/10 obj
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--5
+\JY1/mc/m/n/10 に
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--5
+\JY1/mc/m/n/10 示
+ []
+
+
+Overfull \hbox (12.67767pt too wide) in paragraph at lines 1--5
+\JY1/mc/m/n/10 す．
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--5
+\JY1/mc/m/n/10 フ
+ []
+
+
+Overfull \hbox (17.0965pt too wide) in paragraph at lines 1--5
+\JY1/mc/m/n/10 ォ ー
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--5
+\JY1/mc/m/n/10 ス
+ []
+
+
+Overfull \hbox (18.74432pt too wide) in paragraph at lines 1--5
+\JY1/mc/m/n/10 ゲ ー
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 1--5
+\JY1/mc/m/n/10 ジ
+ []
+
+
+Overfull \hbox (254.08708pt too wide) in paragraph at lines 1--5
+\OT1/cmr/m/n/10 (force$[]\OML/cmm/m/it/10 auge\OT1/cmr/m/n/10 )^^@^^@^^@^^@^^@^
+^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^
+@$ 
+ []
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 \begin{figure}
+                  [h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 \begin{figure}[
+                   h]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.8 \subfloat
+             [球]{\includegraphics[scale=0.4]{../fig/eps/ball.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8 \subfloat[球]{\includegraphics
+                                  [scale=0.4]{../fig/eps/ball.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (31.11115pt too wide) in paragraph at lines 6--10
+ [][]\OT1/cmr/m/n/10 [h] 
+ []
+
+
+Overfull \hbox (139.78912pt too wide) in paragraph at lines 6--10
+ \OT1/cmr/m/n/10 [\JY1/mc/m/n/10 球\OT1/cmr/m/n/10 ][scale=0.4]../fig/eps/ball.
+eps 
+ []
+
+! Undefined control sequence.
+<recently read> \subfloat 
+                          
+l.11 \subfloat
+              [円筒]{\includegraphics[scale=0.4]{../fig/eps/pole.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \subfloat[
+               円筒]{\includegraphics[scale=0.4]{../fig/eps/pole.eps}}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.11 \subfloat[円筒]{\includegraphics
+                                     [scale=0.4]{../fig/eps/pole.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.13 \subfloat
+              [ボトル]{\includegraphics[scale=0.4]{../fig/eps/bottle.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.13 \subfloat[ボトル]{\includegraphics
+                                       [scale=0.4]{../fig/eps/bottle.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \caption
+             {把持対象物}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (12.39995pt too wide) in paragraph at lines 11--18
+[][]\OT1/cmr/m/n/10 [\JY1/mc/m/n/10 円
+ []
+
+
+Overfull \hbox (138.95578pt too wide) in paragraph at lines 11--18
+\JY1/mc/m/n/10 筒\OT1/cmr/m/n/10 ][scale=0.4]../fig/eps/pole.eps
+ []
+
+
+Overfull \hbox (12.39995pt too wide) in paragraph at lines 11--18
+\OT1/cmr/m/n/10 [\JY1/mc/m/n/10 ボ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 11--18
+\JY1/mc/m/n/10 ト
+ []
+
+
+Overfull \hbox (146.73358pt too wide) in paragraph at lines 11--18
+\JY1/mc/m/n/10 ル\OT1/cmr/m/n/10 ][scale=0.4]../fig/eps/bottle.eps
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 11--18
+\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 11--18
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 11--18
+\JY1/mc/m/n/10 対
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 11--18
+\JY1/mc/m/n/10 象
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 11--18
+\JY1/mc/m/n/10 物[]
+ []
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \begin{figure}
+                   [h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \begin{figure}[
+                    h]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (31.11115pt too wide) in paragraph at lines 19--20
+[][]\OT1/cmr/m/n/10 [h] 
+ []
+
+! Undefined control sequence.
+l.21   \includegraphics
+                       [scale=0.4]{../fig/eps/force_gauge.eps}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.21 ...cludegraphics[scale=0.4]{../fig/eps/force_
+                                                  gauge.eps}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.21 ...ics[scale=0.4]{../fig/eps/force_gauge.eps}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22  \caption
+              {フォースゲージ}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Not two-byte family.
+l.22  \caption{フ
+                 ォースゲージ}
+IGNORE.
+
+! Not two-byte family.
+l.22  \caption{フォ
+                   ースゲージ}
+IGNORE.
+
+! Not two-byte family.
+l.22  \caption{フォー
+                     スゲージ}
+IGNORE.
+
+! Not two-byte family.
+l.22  \caption{フォース
+                       ゲージ}
+IGNORE.
+
+! Not two-byte family.
+l.22  \caption{フォースゲ
+                         ージ}
+IGNORE.
+
+! Not two-byte family.
+l.22  \caption{フォースゲー
+                           ジ}
+IGNORE.
+
+! Not two-byte family.
+l.22  \caption{フォースゲージ
+                             }
+IGNORE.
+
+
+! LaTeX Error: Command \end{center} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24  \end{center}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24  \end{center}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24  \end{center}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.24  \end{center}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.24  \end{center}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (198.98969pt too wide) in paragraph at lines 21--26
+[]\OT1/cmr/m/n/10 [scale=0.4]../fig/eps/force$[]\OML/cmm/m/it/10 auge:eps[][]$
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 \newpage
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1
+! Undefined control sequence.
+<write> \newlabel{fig::obj}{{}{\thepage 
+                                        }}
+l.26 \newpage
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig::obj}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{fig::force_gauge}{{}{\thepage 
+                                                }}
+l.26 \newpage
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig::force_gauge}{{}{}}
+]
+! Undefined control sequence.
+l.28 \subsubsection
+                   {センサ使用回路}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.29 ...をするための専用ソフトウェアである．\refig
+                                                  {ina_kairo}に示す専用回路...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.29 ...ための専用ソフトウェアである．\refig{ina_
+                                                 kairo}に示す専用回路をPCとUSB
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.29 ...専用ソフトウェアである．\refig{ina_kairo}
+                                                 に示す専用回路をPCとUSB接続し
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Not two-byte family.
+l.29 ...用ソフトウェアである．\refig{ina_kairo}に
+                                                 示す専用回路をPCとUSB接続して
+IGNORE.
+
+! Not two-byte family.
+l.29 ...ソフトウェアである．\refig{ina_kairo}に示
+                                                 す専用回路をPCとUSB接続して用
+IGNORE.
+
+! Not two-byte family.
+l.29 ...フトウェアである．\refig{ina_kairo}に示す
+                                                 専用回路をPCとUSB接続して用い
+IGNORE.
+
+! Not two-byte family.
+l.29 ...トウェアである．\refig{ina_kairo}に示す専
+                                                 用回路をPCとUSB接続して用いる
+IGNORE.
+
+! Not two-byte family.
+l.29 ...ウェアである．\refig{ina_kairo}に示す専用
+                                                 回路をPCとUSB接続して用いる．
+IGNORE.
+
+! Not two-byte family.
+l.29 ...ェアである．\refig{ina_kairo}に示す専用回
+                                                 路をPCとUSB接続して用いる．イ
+IGNORE.
+
+! Not two-byte family.
+l.29 ...アである．\refig{ina_kairo}に示す専用回路
+                                                 をPCとUSB接続して用いる．イナ
+IGNORE.
+
+! Not two-byte family.
+l.29 ...である．\refig{ina_kairo}に示す専用回路を
+                                                 PCとUSB接続して用いる．イナス
+IGNORE.
+
+! Not two-byte family.
+l.29 ...る．\refig{ina_kairo}に示す専用回路をPCと
+                                                 USB接続して用いる．イナストマ
+IGNORE.
+
+! Not two-byte family.
+l.29 ...\refig{ina_kairo}に示す専用回路をPCとUSB接
+                                                  続して用いる．イナストマー...
+IGNORE.
+
+! Not two-byte family.
+l.29 ...efig{ina_kairo}に示す専用回路をPCとUSB接続
+                                                  して用いる．イナストマー購...
+IGNORE.
+
+! Not two-byte family.
+l.29 ...ig{ina_kairo}に示す専用回路をPCとUSB接続し
+                                                  て用いる．イナストマー購入...
+IGNORE.
+
+! Not two-byte family.
+l.29 ...{ina_kairo}に示す専用回路をPCとUSB接続して
+                                                  用いる．イナストマー購入時...
+IGNORE.
+
+! Not two-byte family.
+l.29 ...na_kairo}に示す専用回路をPCとUSB接続して用
+                                                  いる．イナストマー購入時に...
+IGNORE.
+
+! Not two-byte family.
+l.29 ..._kairo}に示す専用回路をPCとUSB接続して用い
+                                                  る．イナストマー購入時に付...
+IGNORE.
+
+! Not two-byte family.
+l.29 ...airo}に示す専用回路をPCとUSB接続して用いる
+                                                  ．イナストマー購入時に付属...
+IGNORE.
+
+! Not two-byte family.
+l.29 ...ro}に示す専用回路をPCとUSB接続して用いる．
+                                                  イナストマー購入時に付属さ...
+IGNORE.
+
+! Not two-byte family.
+l.29 ...}に示す専用回路をPCとUSB接続して用いる．イ
+                                                  ナストマー購入時に付属され...
+IGNORE.
+
+! Not two-byte family.
+l.29 ...示す専用回路をPCとUSB接続して用いる．イナ
+                                                 ストマー購入時に付属される．
+IGNORE.
+
+! Not two-byte family.
+l.29 ...す専用回路をPCとUSB接続して用いる．イナス
+                                                 トマー購入時に付属される．
+IGNORE.
+
+! Not two-byte family.
+l.29 ...専用回路をPCとUSB接続して用いる．イナスト
+                                                 マー購入時に付属される．
+IGNORE.
+
+! Not two-byte family.
+l.29 ...用回路をPCとUSB接続して用いる．イナストマ
+                                                 ー購入時に付属される．
+IGNORE.
+
+! Not two-byte family.
+l.29 ...回路をPCとUSB接続して用いる．イナストマー
+                                                 購入時に付属される．
+IGNORE.
+
+! Not two-byte family.
+l.29 ...路をPCとUSB接続して用いる．イナストマー購
+                                                 入時に付属される．
+IGNORE.
+
+! Not two-byte family.
+l.29 ...をPCとUSB接続して用いる．イナストマー購入
+                                                 時に付属される．
+IGNORE.
+
+! Not two-byte family.
+l.29 ...PCとUSB接続して用いる．イナストマー購入時
+                                                 に付属される．
+IGNORE.
+
+! Not two-byte family.
+l.29 ...CとUSB接続して用いる．イナストマー購入時に
+                                                  付属される．
+IGNORE.
+
+! Not two-byte family.
+l.29 ...USB接続して用いる．イナストマー購入時に付
+                                                 属される．
+IGNORE.
+
+! Not two-byte family.
+l.29 ...SB接続して用いる．イナストマー購入時に付属
+                                                  される．
+IGNORE.
+
+! Not two-byte family.
+l.29 ...接続して用いる．イナストマー購入時に付属さ
+                                                  れる．
+IGNORE.
+
+! Not two-byte family.
+l.29 ...続して用いる．イナストマー購入時に付属され
+                                                  る．
+IGNORE.
+
+! Not two-byte family.
+l.29 ...して用いる．イナストマー購入時に付属される
+                                                  ．
+IGNORE.
+
+! Not two-byte family.
+l.29 ...て用いる．イナストマー購入時に付属される．
+                                                  
+IGNORE.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.30 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (29.62216pt too wide) in paragraph at lines 28--30
+[][]\JY1/mc/m/n/10 セ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 ン
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 サ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 使
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 用
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 回
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 路
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 イ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 ナ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 ス
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 ト
+ []
+
+
+Overfull \hbox (18.74432pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 マ ー
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 で
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 力
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 計
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 測
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 す
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 る
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 た
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 め
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 専
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 用
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 ソ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 フ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 ト
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 ウ
+ []
+
+
+Overfull \hbox (7.47433pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 ェ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 ア
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 で
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 あ
+ []
+
+
+Overfull \hbox (12.65881pt too wide) in paragraph at lines 28--30
+\JY1/mc/m/n/10 る ．
+ []
+
+
+Overfull \hbox (281.25633pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 ina$[]\OML/cmm/m/it/10 airo\OT1/cmr/m/n/10 ^^@^^@^^@^^@^^@^^@^^
+@^^@\OML/cmm/m/it/10 PC\OT1/cmr/m/n/10 ^^@\OML/cmm/m/it/10 USB\OT1/cmr/m/n/10 ^
+^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@$ 
+ []
+
+! Undefined control sequence.
+l.32 \subsubsection
+                   {産業用ロボット}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.33 本実験で使用した産業用ロボット(VS087)を\refig
+                                                  {robo}に示す．
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (29.62216pt too wide) in paragraph at lines 32--34
+[][]\JY1/mc/m/n/10 産
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 業
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 用
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 ロ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 ボ
+ []
+
+
+Overfull \hbox (7.47433pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 ッ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 ト
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 本
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 実
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 験
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 で
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 使
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 用
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 し
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 た
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 産
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 業
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 用
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 ロ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 ボ
+ []
+
+
+Overfull \hbox (7.47433pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 ッ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 ト
+ []
+
+
+Overfull \hbox (35.83344pt too wide) in paragraph at lines 32--34
+\OT1/cmr/m/n/10 (VS087)
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (19.75006pt too wide) in paragraph at lines 32--34
+\OT1/cmr/m/n/10 robo
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 に
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 示
+ []
+
+
+Overfull \hbox (12.67767pt too wide) in paragraph at lines 32--34
+\JY1/mc/m/n/10 す． 
+ []
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 \begin{figure}
+                   [h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (31.11115pt too wide) in paragraph at lines 36--37
+[][]\OT1/cmr/m/n/10 [h] 
+ []
+
+! Undefined control sequence.
+l.38   \includegraphics
+                       [scale=0.5]{../fig/eps/ina_kairo.eps}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.38   \includegraphics[scale=0.5]{../fig/eps/ina_
+                                                  kairo.eps}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.38 ...phics[scale=0.5]{../fig/eps/ina_kairo.eps}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39  \caption
+              {専用回路}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Not two-byte family.
+l.39  \caption{専
+                 用回路}
+IGNORE.
+
+! Not two-byte family.
+l.39  \caption{専用
+                   回路}
+IGNORE.
+
+! Not two-byte family.
+l.39  \caption{専用回
+                     路}
+IGNORE.
+
+! Not two-byte family.
+l.39  \caption{専用回路
+                       }
+IGNORE.
+
+
+! LaTeX Error: Command \end{center} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41  \end{center}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41  \end{center}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41  \end{center}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.41  \end{center}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.41  \end{center}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (170.552pt too wide) in paragraph at lines 38--43
+[]\OT1/cmr/m/n/10 [scale=0.5]../fig/eps/ina$[]\OML/cmm/m/it/10 airo:eps[][]$
+ []
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 \begin{figure}
+                   [h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (31.11115pt too wide) in paragraph at lines 44--45
+[][]\OT1/cmr/m/n/10 [h] 
+ []
+
+! Undefined control sequence.
+l.46   \includegraphics
+                       [scale=0.5]{../fig/eps/robo.eps}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47  \caption
+              {産業用ロボット}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (128.25029pt too wide) in paragraph at lines 46--49
+ []\OT1/cmr/m/n/10 [scale=0.5]../fig/eps/robo.eps 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 46--49
+ \JY1/mc/m/n/10 産 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 46--49
+ \JY1/mc/m/n/10 業 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 46--49
+ \JY1/mc/m/n/10 用 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 46--49
+ \JY1/mc/m/n/10 ロ 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 46--49
+ \JY1/mc/m/n/10 ボ 
+ []
+
+
+Overfull \hbox (7.47433pt too wide) in paragraph at lines 46--49
+ \JY1/mc/m/n/10 ッ 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 46--49
+ \JY1/mc/m/n/10 ト[] 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 \newpage
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[2
+! Undefined control sequence.
+<write> \newlabel{fig::ina_kairo}{{}{\thepage 
+                                              }}
+l.52 \newpage
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig::ina_kairo}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{fig::robo}{{}{\thepage 
+                                         }}
+l.52 \newpage
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig::robo}{{}{}}
+]
+! Undefined control sequence.
+l.54 \subsection
+                {把持実験}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.55 \subsubsection
+                   {基礎実験}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ...ンサの応答を検証した．計測誤差結果を\refig
+                                                  {result_sf},\refig{result_...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.56 ...答を検証した．計測誤差結果を\refig{result_
+                                                  sf},\refig{result_sm}に示...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.56 ...検証した．計測誤差結果を\refig{result_sf}
+                                                 ,\refig{result_sm}に示す．計測
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.56 ...た．計測誤差結果を\refig{result_sf},\refig
+                                                  {result_sm}に示す．計測結...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Not two-byte family.
+l.56 ...果を\refig{result_sf},\refig{result_sm}に
+                                                 示す．計測結果の横軸は20マイク
+IGNORE.
+
+! Not two-byte family.
+l.56 ...を\refig{result_sf},\refig{result_sm}に示
+                                                 す．計測結果の横軸は20マイクロ
+IGNORE.
+
+! Not two-byte family.
+l.56 ...\refig{result_sf},\refig{result_sm}に示す
+                                                 ．計測結果の横軸は20マイクロ秒
+IGNORE.
+
+! Not two-byte family.
+l.56 ...refig{result_sf},\refig{result_sm}に示す．
+                                                  計測結果の横軸は20マイクロ...
+IGNORE.
+
+! Not two-byte family.
+l.56 ...fig{result_sf},\refig{result_sm}に示す．計
+                                                  測結果の横軸は20マイクロ秒...
+IGNORE.
+
+! Not two-byte family.
+l.56 ...g{result_sf},\refig{result_sm}に示す．計測
+                                                  結果の横軸は20マイクロ秒毎...
+IGNORE.
+
+! Not two-byte family.
+l.56 ...result_sf},\refig{result_sm}に示す．計測結
+                                                  果の横軸は20マイクロ秒毎の...
+IGNORE.
+
+! Not two-byte family.
+l.56 ...sult_sf},\refig{result_sm}に示す．計測結果
+                                                  の横軸は20マイクロ秒毎の計...
+IGNORE.
+
+! Not two-byte family.
+l.56 ...lt_sf},\refig{result_sm}に示す．計測結果の
+                                                  横軸は20マイクロ秒毎の計測...
+IGNORE.
+
+! Not two-byte family.
+l.56 ..._sf},\refig{result_sm}に示す．計測結果の横
+                                                  軸は20マイクロ秒毎の計測数...
+IGNORE.
+
+! Not two-byte family.
+l.56 ...f},\refig{result_sm}に示す．計測結果の横軸
+                                                  は20マイクロ秒毎の計測数，...
+IGNORE.
+
+! Not two-byte family.
+l.56 ...,\refig{result_sm}に示す．計測結果の横軸は
+                                                  20マイクロ秒毎の計測数，縦...
+IGNORE.
+
+! Not two-byte family.
+l.56 ...fig{result_sm}に示す．計測結果の横軸は20マ
+                                                  イクロ秒毎の計測数，縦軸は...
+IGNORE.
+
+! Not two-byte family.
+l.56 ...g{result_sm}に示す．計測結果の横軸は20マイ
+                                                  クロ秒毎の計測数，縦軸は力...
+IGNORE.
+
+! Not two-byte family.
+l.56 ...result_sm}に示す．計測結果の横軸は20マイク
+                                                  ロ秒毎の計測数，縦軸は力覚...
+IGNORE.
+
+! Not two-byte family.
+l.56 ...sult_sm}に示す．計測結果の横軸は20マイクロ
+                                                  秒毎の計測数，縦軸は力覚セ...
+IGNORE.
+
+! Not two-byte family.
+l.56 ...lt_sm}に示す．計測結果の横軸は20マイクロ秒
+                                                  毎の計測数，縦軸は力覚セン...
+IGNORE.
+
+! Not two-byte family.
+l.56 ..._sm}に示す．計測結果の横軸は20マイクロ秒毎
+                                                  の計測数，縦軸は力覚センサ...
+IGNORE.
+
+! Not two-byte family.
+l.56 ...m}に示す．計測結果の横軸は20マイクロ秒毎の
+                                                  計測数，縦軸は力覚センサが...
+IGNORE.
+
+! Not two-byte family.
+l.56 ...に示す．計測結果の横軸は20マイクロ秒毎の計
+                                                  測数，縦軸は力覚センサが出...
+IGNORE.
+
+! Not two-byte family.
+l.56 ...示す．計測結果の横軸は20マイクロ秒毎の計測
+                                                  数，縦軸は力覚センサが出力...
+IGNORE.
+
+! Not two-byte family.
+l.56 ...す．計測結果の横軸は20マイクロ秒毎の計測数
+                                                  ，縦軸は力覚センサが出力す...
+IGNORE.
+
+! Not two-byte family.
+l.56 ...．計測結果の横軸は20マイクロ秒毎の計測数，
+                                                  縦軸は力覚センサが出力する...
+IGNORE.
+
+! Not two-byte family.
+l.56 ...計測結果の横軸は20マイクロ秒毎の計測数，縦
+                                                  軸は力覚センサが出力する電...
+IGNORE.
+
+! Not two-byte family.
+l.56 ...測結果の横軸は20マイクロ秒毎の計測数，縦軸
+                                                  は力覚センサが出力する電圧...
+IGNORE.
+
+! Not two-byte family.
+l.56 ...結果の横軸は20マイクロ秒毎の計測数，縦軸は
+                                                  力覚センサが出力する電圧値...
+IGNORE.
+
+! Not two-byte family.
+l.56 ...果の横軸は20マイクロ秒毎の計測数，縦軸は力
+                                                  覚センサが出力する電圧値で...
+IGNORE.
+
+! Not two-byte family.
+l.56 ...の横軸は20マイクロ秒毎の計測数，縦軸は力覚
+                                                  センサが出力する電圧値であ...
+IGNORE.
+
+! Not two-byte family.
+l.56 ...横軸は20マイクロ秒毎の計測数，縦軸は力覚セ
+                                                  ンサが出力する電圧値である．
+IGNORE.
+
+! Not two-byte family.
+l.56 ...軸は20マイクロ秒毎の計測数，縦軸は力覚セン
+                                                  サが出力する電圧値である．
+IGNORE.
+
+! Not two-byte family.
+l.56 ...は20マイクロ秒毎の計測数，縦軸は力覚センサ
+                                                  が出力する電圧値である．
+IGNORE.
+
+! Not two-byte family.
+l.56 ...20マイクロ秒毎の計測数，縦軸は力覚センサが
+                                                  出力する電圧値である．
+IGNORE.
+
+! Not two-byte family.
+l.56 ...マイクロ秒毎の計測数，縦軸は力覚センサが出
+                                                  力する電圧値である．
+IGNORE.
+
+! Not two-byte family.
+l.56 ...イクロ秒毎の計測数，縦軸は力覚センサが出力
+                                                  する電圧値である．
+IGNORE.
+
+! Not two-byte family.
+l.56 ...クロ秒毎の計測数，縦軸は力覚センサが出力す
+                                                  る電圧値である．
+IGNORE.
+
+! Not two-byte family.
+l.56 ...ロ秒毎の計測数，縦軸は力覚センサが出力する
+                                                  電圧値である．
+IGNORE.
+
+! Not two-byte family.
+l.56 ...秒毎の計測数，縦軸は力覚センサが出力する電
+                                                  圧値である．
+IGNORE.
+
+! Not two-byte family.
+l.56 ...毎の計測数，縦軸は力覚センサが出力する電圧
+                                                  値である．
+IGNORE.
+
+! Not two-byte family.
+l.56 ...の計測数，縦軸は力覚センサが出力する電圧値
+                                                  である．
+IGNORE.
+
+! Not two-byte family.
+l.56 ...計測数，縦軸は力覚センサが出力する電圧値で
+                                                  ある．
+IGNORE.
+
+! Not two-byte family.
+l.56 ...測数，縦軸は力覚センサが出力する電圧値であ
+                                                  る．
+IGNORE.
+
+! Not two-byte family.
+l.56 ...数，縦軸は力覚センサが出力する電圧値である
+                                                  ．
+IGNORE.
+
+! Not two-byte family.
+l.56 ...，縦軸は力覚センサが出力する電圧値である．
+                                                  
+IGNORE.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.57 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (29.62216pt too wide) in paragraph at lines 54--57
+[][]\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 実
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 験
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 基
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 礎
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 実
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 験
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 力
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 覚
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 セ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 ン
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 サ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 組
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 み
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 込
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 ん
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 だ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 柔
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 軟
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 指
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 54--57
+\OT1/cmr/m/n/10 5
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 秒
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 間
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 対
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 象
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 物
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 し
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 た
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 と
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 き
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 セ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 ン
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 サ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 応
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 答
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 検
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 証
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 し
+ []
+
+
+Overfull \hbox (12.65881pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 た ．
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 計
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 測
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 誤
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 差
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 結
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 果
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 54--57
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (357.1178pt too wide) in paragraph at lines 54--57
+\OT1/cmr/m/n/10 result$[]\OML/cmm/m/it/10 f; []\OT1/cmr/m/n/10 ^^@^^@^^@^^@^^@^
+^@^^@^^@^^@^^@^^@^^@20^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@$ 
+ []
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 \begin{figure}
+                   [htbp]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.61 \subfloat
+              [球]{\includegraphics[scale=0.4]{../fig/eps/e0_sf_ball.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.61 \subfloat[球]{\includegraphics
+                                   [scale=0.4]{../fig/eps/e0_sf_ball.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.61 ...\includegraphics[scale=0.4]{../fig/eps/e0_
+                                                  sf_ball.eps}}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.61 ...hics[scale=0.4]{../fig/eps/e0_sf_ball.eps}
+                                                  }
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.61 ...ics[scale=0.4]{../fig/eps/e0_sf_ball.eps}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 \hspace{5mm}\\
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.62 \hspace{5mm}\\
+                   
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (45.8334pt too wide) in paragraph at lines 59--62
+ [][]\OT1/cmr/m/n/10 [htbp] 
+ []
+
+
+Overfull \hbox (172.61322pt too wide) in paragraph at lines 59--62
+ \OT1/cmr/m/n/10 [\JY1/mc/m/n/10 球\OT1/cmr/m/n/10 ][scale=0.4]../fig/eps/e0$[]
+\OML/cmm/m/it/10 f[]all:eps $ 
+ []
+
+! Undefined control sequence.
+<recently read> \subfloat 
+                          
+l.63 \subfloat
+              [円筒]{\includegraphics[scale=0.4]{../fig/eps/e0_sf_pole.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.63 \subfloat[円筒]{\includegraphics
+                                     [scale=0.4]{../fig/eps/e0_sf_pole.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.63 ...\includegraphics[scale=0.4]{../fig/eps/e0_
+                                                  sf_pole.eps}}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.63 ...hics[scale=0.4]{../fig/eps/e0_sf_pole.eps}
+                                                  }
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.63 ...ics[scale=0.4]{../fig/eps/e0_sf_pole.eps}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64 \hspace{5mm}\\
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.64 \hspace{5mm}\\
+                   
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (12.39995pt too wide) in paragraph at lines 63--64
+ [][]\OT1/cmr/m/n/10 [\JY1/mc/m/n/10 円 
+ []
+
+
+Overfull \hbox (171.47815pt too wide) in paragraph at lines 63--64
+ \JY1/mc/m/n/10 筒\OT1/cmr/m/n/10 ][scale=0.4]../fig/eps/e0$[]\OML/cmm/m/it/10 
+f[]ole:eps $ 
+ []
+
+! Undefined control sequence.
+<recently read> \subfloat 
+                          
+l.65 \subfloat
+              [ボトル]{\includegraphics[scale=0.4]{../fig/eps/e0_sf_bottle.e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.65 \subfloat[ボトル]{\includegraphics
+                                       [scale=0.4]{../fig/eps/e0_sf_bottle.e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.65 ...\includegraphics[scale=0.4]{../fig/eps/e0_
+                                                  sf_bottle.eps}}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.65 ...cs[scale=0.4]{../fig/eps/e0_sf_bottle.eps}
+                                                  }
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.65 ...s[scale=0.4]{../fig/eps/e0_sf_bottle.eps}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 \hspace{5mm}\\
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.66 \hspace{5mm}\\
+                   
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (12.39995pt too wide) in paragraph at lines 65--66
+ [][]\OT1/cmr/m/n/10 [\JY1/mc/m/n/10 ボ 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 65--66
+ \JY1/mc/m/n/10 ト 
+ []
+
+
+Overfull \hbox (178.0947pt too wide) in paragraph at lines 65--66
+ \JY1/mc/m/n/10 ル\OT1/cmr/m/n/10 ][scale=0.4]../fig/eps/e0$[]\OML/cmm/m/it/10 
+f[]ottle:eps $ 
+ []
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 \caption
+             {把持実験結果(通常指)}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.69 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.69 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.69 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.69 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.69 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.69 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 67--70
+[][]\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 67--70
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 67--70
+\JY1/mc/m/n/10 実
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 67--70
+\JY1/mc/m/n/10 験
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 67--70
+\JY1/mc/m/n/10 結
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 67--70
+\JY1/mc/m/n/10 果
+ []
+
+
+Overfull \hbox (13.51106pt too wide) in paragraph at lines 67--70
+\OT1/cmr/m/n/10 (\JY1/mc/m/n/10 通
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 67--70
+\JY1/mc/m/n/10 常
+ []
+
+
+Overfull \hbox (13.51106pt too wide) in paragraph at lines 67--70
+\JY1/mc/m/n/10 指\OT1/cmr/m/n/10 )
+ []
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72 \begin{figure}
+                   [htbp]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.74 \subfloat
+              [球]{\includegraphics[scale=0.4]{../fig/eps/e0_sm_ball.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.74 \subfloat[球]{\includegraphics
+                                   [scale=0.4]{../fig/eps/e0_sm_ball.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.74 ...\includegraphics[scale=0.4]{../fig/eps/e0_
+                                                  sm_ball.eps}}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.74 ...hics[scale=0.4]{../fig/eps/e0_sm_ball.eps}
+                                                  }
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.74 ...ics[scale=0.4]{../fig/eps/e0_sm_ball.eps}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75 \hspace{5mm}\\
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.75 \hspace{5mm}\\
+                   
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (45.8334pt too wide) in paragraph at lines 72--75
+ [][]\OT1/cmr/m/n/10 [htbp] 
+ []
+
+
+Overfull \hbox (176.4975pt too wide) in paragraph at lines 72--75
+ \OT1/cmr/m/n/10 [\JY1/mc/m/n/10 球\OT1/cmr/m/n/10 ][scale=0.4]../fig/eps/e0$[]
+\OML/cmm/m/it/10 m[]all:eps $ 
+ []
+
+! Undefined control sequence.
+<recently read> \subfloat 
+                          
+l.76 \subfloat
+              [円筒]{\includegraphics[scale=0.4]{../fig/eps/e0_sm_pole.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.76 \subfloat[円筒]{\includegraphics
+                                     [scale=0.4]{../fig/eps/e0_sm_pole.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.76 ...\includegraphics[scale=0.4]{../fig/eps/e0_
+                                                  sm_pole.eps}}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.76 ...hics[scale=0.4]{../fig/eps/e0_sm_pole.eps}
+                                                  }
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.76 ...ics[scale=0.4]{../fig/eps/e0_sm_pole.eps}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77 \hspace{5mm}\\
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.77 \hspace{5mm}\\
+                   
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (12.39995pt too wide) in paragraph at lines 76--77
+ [][]\OT1/cmr/m/n/10 [\JY1/mc/m/n/10 円 
+ []
+
+
+Overfull \hbox (175.36243pt too wide) in paragraph at lines 76--77
+ \JY1/mc/m/n/10 筒\OT1/cmr/m/n/10 ][scale=0.4]../fig/eps/e0$[]\OML/cmm/m/it/10 
+m[]ole:eps $ 
+ []
+
+! Undefined control sequence.
+<recently read> \subfloat 
+                          
+l.78 \subfloat
+              [ボトル]{\includegraphics[scale=0.4]{../fig/eps/e0_sm_bottle.e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.78 \subfloat[ボトル]{\includegraphics
+                                       [scale=0.4]{../fig/eps/e0_sm_bottle.e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.78 ...\includegraphics[scale=0.4]{../fig/eps/e0_
+                                                  sm_bottle.eps}}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.78 ...cs[scale=0.4]{../fig/eps/e0_sm_bottle.eps}
+                                                  }
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.78 ...s[scale=0.4]{../fig/eps/e0_sm_bottle.eps}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \caption
+             {把持実験結果(半球型指)}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Not two-byte family.
+l.80 \caption{把
+                持実験結果(半球型指)}
+IGNORE.
+
+! Not two-byte family.
+l.80 \caption{把持
+                  実験結果(半球型指)}
+IGNORE.
+
+! Not two-byte family.
+l.80 \caption{把持実
+                    験結果(半球型指)}
+IGNORE.
+
+! Not two-byte family.
+l.80 \caption{把持実験
+                      結果(半球型指)}
+IGNORE.
+
+! Not two-byte family.
+l.80 \caption{把持実験結
+                        果(半球型指)}
+IGNORE.
+
+! Not two-byte family.
+l.80 \caption{把持実験結果
+                          (半球型指)}
+IGNORE.
+
+! Not two-byte family.
+l.80 \caption{把持実験結果(半
+                             球型指)}
+IGNORE.
+
+! Not two-byte family.
+l.80 \caption{把持実験結果(半球
+                               型指)}
+IGNORE.
+
+! Not two-byte family.
+l.80 \caption{把持実験結果(半球型
+                                 指)}
+IGNORE.
+
+! Not two-byte family.
+l.80 \caption{把持実験結果(半球型指
+                                   )}
+IGNORE.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.82 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.82 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.82 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.82 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.82 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.82 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.82 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (12.39995pt too wide) in paragraph at lines 78--83
+[][]\OT1/cmr/m/n/10 [\JY1/mc/m/n/10 ボ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 78--83
+\JY1/mc/m/n/10 ト
+ []
+
+
+Overfull \hbox (252.25693pt too wide) in paragraph at lines 78--83
+\JY1/mc/m/n/10 ル\OT1/cmr/m/n/10 ][scale=0.4]../fig/eps/e0$[]\OML/cmm/m/it/10 m
+[]ottle:eps [][]$ 
+ []
+
+! Undefined control sequence.
+l.86 \subsubsection
+                   {荷重実験}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.87 ...の力覚センサの応答を計測した．結果を\refig
+                                                  {result_e2_sf},\refig{resu...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.87 ...ンサの応答を計測した．結果を\refig{result_
+                                                  e2_sf},\refig{result_e2_sm...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.87 ...応答を計測した．結果を\refig{result_e2_sf}
+                                                  ,\refig{result_e2_sm}に示す．
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.87 ...測した．結果を\refig{result_e2_sf},\refig
+                                                 {result_e2_sm}に示す．
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Not two-byte family.
+l.87 ...refig{result_e2_sf},\refig{result_e2_sm}に
+                                                  示す．
+IGNORE.
+
+! Not two-byte family.
+l.87 ...fig{result_e2_sf},\refig{result_e2_sm}に示
+                                                  す．
+IGNORE.
+
+! Not two-byte family.
+l.87 ...g{result_e2_sf},\refig{result_e2_sm}に示す
+                                                  ．
+IGNORE.
+
+! Not two-byte family.
+l.87 ...result_e2_sf},\refig{result_e2_sm}に示す．
+                                                  
+IGNORE.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.88 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (29.62216pt too wide) in paragraph at lines 86--88
+[][]\JY1/mc/m/n/10 荷
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 重
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 実
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 験
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 グ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 リ
+ []
+
+
+Overfull \hbox (7.47433pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 ッ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 パ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 力
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 増
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 加
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 さ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 せ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 た
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 時
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 力
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 覚
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 セ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 ン
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 サ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 応
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 答
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 計
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 測
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 し
+ []
+
+
+Overfull \hbox (12.65881pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 た ．
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 結
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 果
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 86--88
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (121.95543pt too wide) in paragraph at lines 86--88
+\OT1/cmr/m/n/10 result$[]2[]\OML/cmm/m/it/10 f; []\OT1/cmr/m/n/10 ^^@^^@^^@^^@$
+ 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89 \newpage
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[3
+! Undefined control sequence.
+<write> \newlabel{fig::result_sf}{{}{\thepage 
+                                              }}
+l.89 \newpage
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig::result_sf}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{fig::result_sm}{{}{\thepage 
+                                              }}
+l.89 \newpage
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig::result_sm}{{}{}}
+]
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 \begin{figure}
+                   [htbp]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.93 \subfloat
+              [球]{\includegraphics[scale=0.4]{../fig/eps/e2_sf_ball.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.93 \subfloat[球]{\includegraphics
+                                   [scale=0.4]{../fig/eps/e2_sf_ball.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.93 ...\includegraphics[scale=0.4]{../fig/eps/e2_
+                                                  sf_ball.eps}}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.93 ...hics[scale=0.4]{../fig/eps/e2_sf_ball.eps}
+                                                  }
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.93 ...ics[scale=0.4]{../fig/eps/e2_sf_ball.eps}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.94 \hspace{5mm}\\
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.94 \hspace{5mm}\\
+                   
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (45.8334pt too wide) in paragraph at lines 91--94
+ [][]\OT1/cmr/m/n/10 [htbp] 
+ []
+
+
+Overfull \hbox (172.61322pt too wide) in paragraph at lines 91--94
+ \OT1/cmr/m/n/10 [\JY1/mc/m/n/10 球\OT1/cmr/m/n/10 ][scale=0.4]../fig/eps/e2$[]
+\OML/cmm/m/it/10 f[]all:eps $ 
+ []
+
+! Undefined control sequence.
+<recently read> \subfloat 
+                          
+l.95 \subfloat
+              [円筒]{\includegraphics[scale=0.4]{../fig/eps/e2_sf_pole.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.95 \subfloat[円筒]{\includegraphics
+                                     [scale=0.4]{../fig/eps/e2_sf_pole.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.95 ...\includegraphics[scale=0.4]{../fig/eps/e2_
+                                                  sf_pole.eps}}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.95 ...hics[scale=0.4]{../fig/eps/e2_sf_pole.eps}
+                                                  }
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.95 ...ics[scale=0.4]{../fig/eps/e2_sf_pole.eps}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96 \hspace{5mm}\\
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.96 \hspace{5mm}\\
+                   
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (12.39995pt too wide) in paragraph at lines 95--96
+ [][]\OT1/cmr/m/n/10 [\JY1/mc/m/n/10 円 
+ []
+
+
+Overfull \hbox (171.47815pt too wide) in paragraph at lines 95--96
+ \JY1/mc/m/n/10 筒\OT1/cmr/m/n/10 ][scale=0.4]../fig/eps/e2$[]\OML/cmm/m/it/10 
+f[]ole:eps $ 
+ []
+
+! Undefined control sequence.
+<recently read> \subfloat 
+                          
+l.97 \subfloat
+              [ボトル]{\includegraphics[scale=0.4]{../fig/eps/e2_sf_bottle.e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.97 \subfloat[ボトル]{\includegraphics
+                                       [scale=0.4]{../fig/eps/e2_sf_bottle.e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.97 ...\includegraphics[scale=0.4]{../fig/eps/e2_
+                                                  sf_bottle.eps}}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.97 ...cs[scale=0.4]{../fig/eps/e2_sf_bottle.eps}
+                                                  }
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.97 ...s[scale=0.4]{../fig/eps/e2_sf_bottle.eps}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98 \hspace{5mm}\\
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.98 \hspace{5mm}\\
+                   
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (12.39995pt too wide) in paragraph at lines 97--98
+ [][]\OT1/cmr/m/n/10 [\JY1/mc/m/n/10 ボ 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 97--98
+ \JY1/mc/m/n/10 ト 
+ []
+
+
+Overfull \hbox (178.0947pt too wide) in paragraph at lines 97--98
+ \JY1/mc/m/n/10 ル\OT1/cmr/m/n/10 ][scale=0.4]../fig/eps/e2$[]\OML/cmm/m/it/10 
+f[]ottle:eps $ 
+ []
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.99 \caption
+             {荷重実験結果(通常指)}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.101 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.101 \end{figure}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.101 \end{figure}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.101 \end{figure}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.101 \end{figure}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.101 \end{figure}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.101 \end{figure}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 99--102
+[][]\JY1/mc/m/n/10 荷
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 99--102
+\JY1/mc/m/n/10 重
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 99--102
+\JY1/mc/m/n/10 実
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 99--102
+\JY1/mc/m/n/10 験
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 99--102
+\JY1/mc/m/n/10 結
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 99--102
+\JY1/mc/m/n/10 果
+ []
+
+
+Overfull \hbox (13.51106pt too wide) in paragraph at lines 99--102
+\OT1/cmr/m/n/10 (\JY1/mc/m/n/10 通
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 99--102
+\JY1/mc/m/n/10 常
+ []
+
+
+Overfull \hbox (13.51106pt too wide) in paragraph at lines 99--102
+\JY1/mc/m/n/10 指\OT1/cmr/m/n/10 )
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 \newpage
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[4
+! Undefined control sequence.
+<write> \newlabel{fig::result_e2_sf}{{}{\thepage 
+                                                 }}
+l.103 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig::result_e2_sf}{{}{}}
+]
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.105 \begin{figure}
+                    [htbp]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.107 \subfloat
+               [球]{\includegraphics[scale=0.7]{../fig/eps/e2_sm_ball.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.107 \subfloat[球]{\includegraphics
+                                    [scale=0.7]{../fig/eps/e2_sm_ball.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.107 ...includegraphics[scale=0.7]{../fig/eps/e2_
+                                                  sm_ball.eps}}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.107 ...ics[scale=0.7]{../fig/eps/e2_sm_ball.eps}
+                                                  }
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.107 ...cs[scale=0.7]{../fig/eps/e2_sm_ball.eps}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.108 \hspace{5mm}\\
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.108 \hspace{5mm}\\
+                    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (45.8334pt too wide) in paragraph at lines 105--108
+ [][]\OT1/cmr/m/n/10 [htbp] 
+ []
+
+
+Overfull \hbox (176.4975pt too wide) in paragraph at lines 105--108
+ \OT1/cmr/m/n/10 [\JY1/mc/m/n/10 球\OT1/cmr/m/n/10 ][scale=0.7]../fig/eps/e2$[]
+\OML/cmm/m/it/10 m[]all:eps $ 
+ []
+
+! Undefined control sequence.
+<recently read> \subfloat 
+                          
+l.109 \subfloat
+               [円筒]{\includegraphics[scale=0.7]{../fig/eps/e2_sm_pole.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.109 \subfloat[円筒]{\includegraphics
+                                      [scale=0.7]{../fig/eps/e2_sm_pole.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.109 ...includegraphics[scale=0.7]{../fig/eps/e2_
+                                                  sm_pole.eps}}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.109 ...ics[scale=0.7]{../fig/eps/e2_sm_pole.eps}
+                                                  }
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.109 ...cs[scale=0.7]{../fig/eps/e2_sm_pole.eps}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 \hspace{5mm}\\
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.110 \hspace{5mm}\\
+                    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (12.39995pt too wide) in paragraph at lines 109--110
+ [][]\OT1/cmr/m/n/10 [\JY1/mc/m/n/10 円 
+ []
+
+
+Overfull \hbox (175.36243pt too wide) in paragraph at lines 109--110
+ \JY1/mc/m/n/10 筒\OT1/cmr/m/n/10 ][scale=0.7]../fig/eps/e2$[]\OML/cmm/m/it/10 
+m[]ole:eps $ 
+ []
+
+! Undefined control sequence.
+<recently read> \subfloat 
+                          
+l.111 \subfloat
+               [ボトル]{\includegraphics[scale=0.7]{../fig/eps/e2_sm_bottle....
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.111 \subfloat[ボトル]{\includegraphics
+                                        [scale=0.7]{../fig/eps/e2_sm_bottle....
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.111 ...includegraphics[scale=0.7]{../fig/eps/e2_
+                                                  sm_bottle.eps}}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.111 ...s[scale=0.7]{../fig/eps/e2_sm_bottle.eps}
+                                                  }
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.111 ...[scale=0.7]{../fig/eps/e2_sm_bottle.eps}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112 \hspace{5mm}\\
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.112 \hspace{5mm}\\
+                    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (12.39995pt too wide) in paragraph at lines 111--112
+ [][]\OT1/cmr/m/n/10 [\JY1/mc/m/n/10 ボ 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 111--112
+ \JY1/mc/m/n/10 ト 
+ []
+
+
+Overfull \hbox (181.97897pt too wide) in paragraph at lines 111--112
+ \JY1/mc/m/n/10 ル\OT1/cmr/m/n/10 ][scale=0.7]../fig/eps/e2$[]\OML/cmm/m/it/10 
+m[]ottle:eps $ 
+ []
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.113 \caption
+              {荷重実験結果(半球型指)}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.115 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.115 \end{figure}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.115 \end{figure}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.115 \end{figure}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.115 \end{figure}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.115 \end{figure}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.115 \end{figure}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 113--116
+[][]\JY1/mc/m/n/10 荷
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 113--116
+\JY1/mc/m/n/10 重
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 113--116
+\JY1/mc/m/n/10 実
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 113--116
+\JY1/mc/m/n/10 験
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 113--116
+\JY1/mc/m/n/10 結
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 113--116
+\JY1/mc/m/n/10 果
+ []
+
+
+Overfull \hbox (13.51106pt too wide) in paragraph at lines 113--116
+\OT1/cmr/m/n/10 (\JY1/mc/m/n/10 半
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 113--116
+\JY1/mc/m/n/10 球
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 113--116
+\JY1/mc/m/n/10 型
+ []
+
+
+Overfull \hbox (13.51106pt too wide) in paragraph at lines 113--116
+\JY1/mc/m/n/10 指\OT1/cmr/m/n/10 )
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.117 \newpage
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[5
+! Undefined control sequence.
+<write> \newlabel{fig::result_e2_sm}{{}{\thepage 
+                                                 }}
+l.117 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig::result_e2_sm}{{}{}}
+]
+! Undefined control sequence.
+l.119 \subsubsection
+                    {引張実験}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.120 ...把持力を増加させ繰り返した．実験は\refig
+                                                 {e3}のように行った．結果を\ref
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.120 ...は\refig{e3}のように行った．結果を\refig
+                                                 {result_e3}に示す．
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.120 ...g{e3}のように行った．結果を\refig{result_
+                                                  e3}に示す．
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.120 ...3}のように行った．結果を\refig{result_e3}
+                                                  に示す．
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Not two-byte family.
+l.120 ...のように行った．結果を\refig{result_e3}に
+                                                  示す．
+IGNORE.
+
+! Not two-byte family.
+l.120 ...ように行った．結果を\refig{result_e3}に示
+                                                  す．
+IGNORE.
+
+! Not two-byte family.
+l.120 ...うに行った．結果を\refig{result_e3}に示す
+                                                  ．
+IGNORE.
+
+! Not two-byte family.
+l.120 ...に行った．結果を\refig{result_e3}に示す．
+                                                  
+IGNORE.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.121 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (29.62216pt too wide) in paragraph at lines 119--121
+[][]\JY1/mc/m/n/10 引
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 張
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 実
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 験
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 し
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 た
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 対
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 象
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 物
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 鉛
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 直
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 下
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 向
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 き
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 に
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 フ
+ []
+
+
+Overfull \hbox (17.0965pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 ォ ー
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 ス
+ []
+
+
+Overfull \hbox (18.74432pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 ゲ ー
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 ジ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 で
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 引
+ []
+
+
+Overfull \hbox (7.47433pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 っ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 張
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 り
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 対
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 象
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 物
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 が
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 動
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 い
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 た
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 と
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 き
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 値
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 計
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 測
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 し
+ []
+
+
+Overfull \hbox (12.65881pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 た ．
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 荷
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 重
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 実
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 験
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 と
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 同
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 様
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 に
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 グ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 リ
+ []
+
+
+Overfull \hbox (7.47433pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 ッ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 パ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 把
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 持
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 力
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 増
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 加
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 さ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 せ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 繰
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 り
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 返
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 し
+ []
+
+
+Overfull \hbox (12.65881pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 た ．
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 実
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 験
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 は
+ []
+
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 119--121
+\OT1/cmr/m/n/10 e3
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 よ
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 う
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 に
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 行
+ []
+
+
+Overfull \hbox (7.47433pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 っ
+ []
+
+
+Overfull \hbox (12.65881pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 た ．
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 結
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 果
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 119--121
+\JY1/mc/m/n/10 を
+ []
+
+
+Overfull \hbox (58.822pt too wide) in paragraph at lines 119--121
+\OT1/cmr/m/n/10 result$[]3^^@^^@^^@^^@$ 
+ []
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.122 \begin{figure}
+                    [h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (31.11115pt too wide) in paragraph at lines 122--123
+[][]\OT1/cmr/m/n/10 [h] 
+ []
+
+! Undefined control sequence.
+l.124   \includegraphics
+                        [scale=0.4]{../fig/eps/pull2.eps}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.125  \caption
+               {引張実験のようす}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (130.16696pt too wide) in paragraph at lines 124--127
+ []\OT1/cmr/m/n/10 [scale=0.4]../fig/eps/pull2.eps 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 124--127
+ \JY1/mc/m/n/10 引 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 124--127
+ \JY1/mc/m/n/10 張 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 124--127
+ \JY1/mc/m/n/10 実 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 124--127
+ \JY1/mc/m/n/10 験 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 124--127
+ \JY1/mc/m/n/10 の 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 124--127
+ \JY1/mc/m/n/10 よ 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 124--127
+ \JY1/mc/m/n/10 う 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 124--127
+ \JY1/mc/m/n/10 す[] 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.128 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 \begin{figure}
+                    [htbp]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.132 \subfloat
+               [通常指]{\includegraphics[scale=0.7]{../fig/eps/e3_sf.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.132 \subfloat[通常指]{\includegraphics
+                                        [scale=0.7]{../fig/eps/e3_sf.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.132 ...includegraphics[scale=0.7]{../fig/eps/e3_
+                                                  sf.eps}}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.132 ...graphics[scale=0.7]{../fig/eps/e3_sf.eps}
+                                                  }
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.132 ...raphics[scale=0.7]{../fig/eps/e3_sf.eps}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.133 \hspace{5mm}\\
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.133 \hspace{5mm}\\
+                    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (45.8334pt too wide) in paragraph at lines 130--133
+ [][]\OT1/cmr/m/n/10 [htbp] 
+ []
+
+
+Overfull \hbox (12.39995pt too wide) in paragraph at lines 130--133
+ \OT1/cmr/m/n/10 [\JY1/mc/m/n/10 通 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 130--133
+ \JY1/mc/m/n/10 常 
+ []
+
+
+Overfull \hbox (154.69258pt too wide) in paragraph at lines 130--133
+ \JY1/mc/m/n/10 指\OT1/cmr/m/n/10 ][scale=0.7]../fig/eps/e3$[]\OML/cmm/m/it/10 
+f:eps $ 
+ []
+
+! Undefined control sequence.
+<recently read> \subfloat 
+                          
+l.134 \subfloat
+               [半球型指]{\includegraphics[scale=0.7]{../fig/eps/e3_sm.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.134 \subfloat[半球型指]{\includegraphics
+                                          [scale=0.7]{../fig/eps/e3_sm.eps}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.134 ...includegraphics[scale=0.7]{../fig/eps/e3_
+                                                  sm.eps}}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.134 ...graphics[scale=0.7]{../fig/eps/e3_sm.eps}
+                                                  }
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.134 ...raphics[scale=0.7]{../fig/eps/e3_sm.eps}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.135 \hspace{5mm}\\
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.135 \hspace{5mm}\\
+                    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (12.39995pt too wide) in paragraph at lines 134--135
+ [][]\OT1/cmr/m/n/10 [\JY1/mc/m/n/10 半 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 134--135
+ \JY1/mc/m/n/10 球 
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 134--135
+ \JY1/mc/m/n/10 型 
+ []
+
+
+Overfull \hbox (158.05602pt too wide) in paragraph at lines 134--135
+ \JY1/mc/m/n/10 指\OT1/cmr/m/n/10 ][scale=0.7]../fig/eps/e3$[]\OML/cmm/m/it/10 
+m:eps $ 
+ []
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.136 \caption
+              {引張実験結果}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.138 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.138 \end{figure}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.138 \end{figure}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.138 \end{figure}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.138 \end{figure}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 136--139
+[][]\JY1/mc/m/n/10 引
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 136--139
+\JY1/mc/m/n/10 張
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 136--139
+\JY1/mc/m/n/10 実
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 136--139
+\JY1/mc/m/n/10 験
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 136--139
+\JY1/mc/m/n/10 結
+ []
+
+
+Overfull \hbox (9.62216pt too wide) in paragraph at lines 136--139
+\JY1/mc/m/n/10 果[]
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.139 \newpage
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[6
+! Undefined control sequence.
+<write> \newlabel{fig::e3}{{}{\thepage 
+                                       }}
+l.139 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig::e3}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{fig::result_e3}{{}{\thepage 
+                                              }}
+l.139 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig::result_e3}{{}{}}
+])
+! Emergency stop.
+<*> experiment.tex
+                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 11 strings out of 493723
+ 129 string characters out of 6152570
+ 58610 words of memory out of 5000000
+ 3649 multiletter control sequences out of 15000+600000
+ 7511 words of font info for 31 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 18i,4n,12p,237b,137s stack positions out of 5000i,500n,10000p,200000b,80000s
+Output written on experiment.dvi (6 pages, 5500 bytes).

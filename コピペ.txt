@@ -1,0 +1,32 @@
+\begin{figure}[h]
+ \begin{center}
+  \includegraphics[scale=0.35]{../figure/lever.eps}
+ \caption{レバースライダの例}
+  \label{fig::hayamodori}
+ \end{center}
+\end{figure}
+
+
+
+\begin{table}[htbp]
+    \caption{把持実験結果}
+   \label{tab::result}
+   %\scalebox{3}[1.5]
+   \centering
+   \begin{tabular}{|c||c|c|c|c|c|} \hline
+          &A    &B     &C      &D     &E        \\ \hline \hline
+        (1) & ◯ & ◯  & ×  & ◯ & ×  \\ \hline
+        (2) & ◯ & ◯  & ◯  & ◯ & ◯  \\ \hline
+        (3) & ◯ & ◯  & ◯  & ◯ & ◯  \\ \hline
+		(4) & ◯ & ◯  & ◯  & ◯ & ×  \\ \hline
+		(5) & ◯ & ◯  & ◯  & ◯ & ×  \\ \hline				
+		(6) & ◯ & ◯  & ◯  & ◯ & ×  \\ \hline
+		(7) & ◯ & ◯  & ◯  & ◯ & ×  \\ \hline
+		(8) & × & ×  & ×  & × & ×  \\ \hline		
+		(9) & × & ×  & ×  & × & ×  \\ \hline		
+		 \end{tabular}
+\end{table}
+
+J. R. Amend Jr, E. Brown, N. Rodenberg, H. M. Jaeger, H. Lipson: “A Positive Pressure
+Universal Gripper Based on the Jamming of Granular Material,”IEEE trans. on Robotics,
+Vol.28, pp.341350, 2012.
