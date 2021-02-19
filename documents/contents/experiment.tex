@@ -53,39 +53,49 @@
 
 \subsection{把持実験}
 \subsubsection{基礎実験}
-力覚センサを組み込んだ柔軟指5秒間把持対象物を把持したときのセンサの応答を検証した．計測誤差結果を\refig{result_sf},\refig{result_sm}に示す．
+力覚センサを組み込んだ通常指及び半球型指を用いて5.0秒間把持対象物を把持したときのセンサの応答を検証した．把持の様子を\refig{grasp1_2}に示す.このときのグリッパの把持力を15.0[N]とした.通常指の結果を\refig{e0_sf},半球型指の結果を\refig{e0_sm}に示す．この実験から両指で把持時に荷重を検出し非把持時には荷重を検出しないことがわかる.
 
 \subsubsection{荷重実験}
-グリッパの把持力を増加させた時の力覚センサの応答を計測した．結果を\refig{result_e2_sf},\refig{result_e2_sm}に示す．
+力覚センサを組み込んだ通常指及び半球型指を用いて各把持対象物を把持し,グリッパの把持力を15.0[N]から30.0[N]まで増加させた時の力覚センサの応答を計測した．通常指の結果を\refig{result_e2_sf},半球型指の結果を\refig{result_e2_sm}に示す．この実験の結果より把持力の増加に伴い荷重の増加を検出できることが見出された.
 
 \subsubsection{引張実験}
-把持した対象物を鉛直下向きにフォースゲージで引っ張り把持対象物が動いたときの静止摩擦力を計測した．荷重実験と同様にグリッパの把持力を増加させ繰り返した．結果を\refig{result_e3}を示す.
+荷重実験と同様に把持しグリッパの把持力を増加させた時に,それぞれの把持力で把持した対象物を鉛直下向きにフォースゲージで引っ張り把持対象物が動いたときの静止摩擦力を計測した．荷重実験と同様にグリッパの把持力を増加させ繰り返した．把持対象物ごとの通常指及び半球型指の結果を\refig{result_e3}を示す.この実験の結果より通常指の方が半球型指に比べて静止摩擦力が大きいことが分かる.
+\begin{figure}[htbp]
+\centering
+\subfloat[通常指]{\includegraphics[scale=0.4]{../fig/eps/grasp1.eps}}
+\hspace{5mm}
+\subfloat[半球型指]{\includegraphics[scale=0.4]{../fig/eps/grasp2.eps}}
+\hspace{5mm}\\
+\caption{把持の様子}
+\label{fig::grasp1_2}
+\end{figure}
+
 
 
 \begin{figure}[htbp]
 \centering
-\subfloat[球]{\includegraphics[scale=0.5]{../fig/eps/e0_sf_ball.eps}}
+\subfloat[球]{\includegraphics[scale=0.65]{../fig/eps/e0_sf_ball.eps}}
 \hspace{5mm}\\
-\subfloat[円筒]{\includegraphics[scale=0.5]{../fig/eps/e0_sf_pole.eps}}
+\subfloat[円筒]{\includegraphics[scale=0.65]{../fig/eps/e0_sf_pole.eps}}
 \hspace{5mm}\\
-\subfloat[ボトル]{\includegraphics[scale=0.5]{../fig/eps/e0_sf_bottle.eps}}
+\subfloat[ボトル]{\includegraphics[scale=0.65]{../fig/eps/e0_sf_bottle.eps}}
 \hspace{5mm}\\
 \caption{把持実験結果(通常指)}
-\label{fig::result_sf}
+\label{fig::e0_sf}
 \end{figure}
 
 \clearpage
 
 \begin{figure}[htbp]
 \centering
-\subfloat[球]{\includegraphics[scale=0.5]{../fig/eps/e0_sm_ball.eps}}
+\subfloat[球]{\includegraphics[scale=0.65]{../fig/eps/e0_sm_ball.eps}}
 \hspace{5mm}\\
-\subfloat[円筒]{\includegraphics[scale=0.5]{../fig/eps/e0_sm_pole.eps}}
+\subfloat[円筒]{\includegraphics[scale=0.65]{../fig/eps/e0_sm_pole.eps}}
 \hspace{5mm}\\
-\subfloat[ボトル]{\includegraphics[scale=0.5]{../fig/eps/e0_sm_bottle.eps}}
+\subfloat[ボトル]{\includegraphics[scale=0.65]{../fig/eps/e0_sm_bottle.eps}}
 \hspace{5mm}
 \caption{把持実験結果(半球型指)}
-\label{fig::result_sm}
+\label{fig::e0_sm}
 \end{figure}
 
 \clearpage
@@ -94,11 +104,11 @@
 
 \begin{figure}[htbp]
 \centering
-\subfloat[球]{\includegraphics[scale=0.85]{../fig/eps/e2_sf_ball.eps}}
+\subfloat[球]{\includegraphics[scale=0.7]{../fig/eps/e2_sf_ball.eps}}
 \hspace{5mm}\\
-\subfloat[円筒]{\includegraphics[scale=0.85]{../fig/eps/e2_sf_pole.eps}}
+\subfloat[円筒]{\includegraphics[scale=0.7]{../fig/eps/e2_sf_pole.eps}}
 \hspace{5mm}\\
-\subfloat[ボトル]{\includegraphics[scale=0.85]{../fig/eps/e2_sf_bottle.eps}}
+\subfloat[ボトル]{\includegraphics[scale=0.7]{../fig/eps/e2_sf_bottle.eps}}
 \hspace{5mm}\\
 \caption{荷重実験結果(通常指)}
 \label{fig::result_e2_sf}
@@ -108,11 +118,11 @@
 
 \begin{figure}[htbp]
 \centering
-\subfloat[球]{\includegraphics[scale=0.85]{../fig/eps/e2_sm_ball.eps}}
+\subfloat[球]{\includegraphics[scale=0.7]{../fig/eps/e2_sm_ball.eps}}
 \hspace{5mm}\\
-\subfloat[円筒]{\includegraphics[scale=0.85]{../fig/eps/e2_sm_pole.eps}}
+\subfloat[円筒]{\includegraphics[scale=0.7]{../fig/eps/e2_sm_pole.eps}}
 \hspace{5mm}\\
-\subfloat[ボトル]{\includegraphics[scale=0.85]{../fig/eps/e2_sm_bottle.eps}}
+\subfloat[ボトル]{\includegraphics[scale=0.7]{../fig/eps/e2_sm_bottle.eps}}
 \hspace{5mm}\\
 \caption{荷重実験結果(半球型指)}
 \label{fig::result_e2_sm}
@@ -122,11 +132,11 @@
 
 \begin{figure}[htbp]
 \centering
-\subfloat[球]{\includegraphics[scale=0.85]{../fig/eps/e3_ball.eps}}
+\subfloat[球]{\includegraphics[scale=0.65]{../fig/eps/e3_ball.eps}}
 \hspace{5mm}\\
-\subfloat[円筒]{\includegraphics[scale=0.85]{../fig/eps/e3_cylinder.eps}}
+\subfloat[円筒]{\includegraphics[scale=0.65]{../fig/eps/e3_cylinder.eps}}
 \hspace{5mm}\\
-\subfloat[ボトル]{\includegraphics[scale=0.85]{../fig/eps/e3_bottle.eps}}
+\subfloat[ボトル]{\includegraphics[scale=0.65]{../fig/eps/e3_bottle.eps}}
 \hspace{5mm}\\
 \caption{引張実験結果}
 \label{fig::result_e3}
